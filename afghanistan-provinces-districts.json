@@ -397,6 +397,126 @@
         }
       ],
       "map_image": "assets/maps/Baghlan.png"
+    },
+    {
+      "name": "Balkh",
+      "population": 1509183,
+      "area": 16186,
+      "districts": 93,
+      "ethnic_distribution": {
+        "farsiwan": "43.5%",
+        "turkic": "27.0% (17.4% Uzbeks, 1.7% Kyrgyz, 7.4% Turkmens, 0.5% Kazakhs)",
+        "pashtuns": "18.3% (Kandahari, Balochi, Kochi)",
+        "hazaras": "11.9%"
+      },
+      "districts_data": [
+        {
+          "name": "Balkh",
+          "population": 136097,
+          "area": 536,
+          "villages": 254,
+          "ethnicity": "Predominantly Farsiwans, few Uzbeks and Hazaras"
+        },
+        {
+          "name": "Charbolak",
+          "population": 91539,
+          "area": 607,
+          "villages": 151,
+          "ethnicity": "Majority Pashtuns, minority Farsiwans (Tajiks, Arabs)"
+        },
+        {
+          "name": "Charkint",
+          "population": 50220,
+          "area": 1222,
+          "villages": 41,
+          "ethnicity": "Majority Uzbeks, minority Kazakhs and Pashtuns, some Farsiwans"
+        },
+        {
+          "name": "Chimtal",
+          "population": 103630,
+          "area": 1917,
+          "villages": 54,
+          "ethnicity": "Majority Uzbeks, minority Farsiwans, Pashtuns, and Hazaras"
+        },
+        {
+          "name": "Dawlatabad",
+          "population": 119083,
+          "area": 1804,
+          "villages": 66,
+          "ethnicity": "Majority Farsiwans, minority Uzbeks, Hazaras, Turkmens, Pashtuns"
+        },
+        {
+          "name": "Dihdadi",
+          "population": 76261,
+          "area": 274,
+          "villages": 278,
+          "ethnicity": "Mixed Kyrgyz, Farsiwans, and Hazaras"
+        },
+        {
+          "name": "Kaldar",
+          "population": 22586,
+          "area": 803,
+          "villages": 28,
+          "ethnicity": "Predominantly Uzbeks"
+        },
+        {
+          "name": "Khulm",
+          "population": 83032,
+          "area": 3204,
+          "villages": 91,
+          "ethnicity": "Mix of Uzbeks, Farsiwans (Arabs, Aimaq), Pashtuns, Hazaras"
+        },
+        {
+          "name": "Kishindih",
+          "population": 55003,
+          "area": 1083,
+          "villages": 51,
+          "ethnicity": "Majority Hazaras, minority Pashtuns and Uzbeks"
+        },
+        {
+          "name": "Marmul",
+          "population": 12888,
+          "area": 375,
+          "villages": 34,
+          "ethnicity": "Majority Farsiwans, minority Uzbeks, few Kyrgyz"
+        },
+        {
+          "name": "Mazar-e-Sharif",
+          "population": 484492,
+          "area": 67,
+          "villages": 7218,
+          "ethnicity": "50% Farsiwans, 27% Pashtuns, 12% Turkmens, 11% Uzbeks"
+        },
+        {
+          "name": "Nahri Shahi",
+          "population": 50752,
+          "area": 1409,
+          "villages": 36,
+          "ethnicity": "Predominantly Farsiwans, some Uzbeks and Hazaras"
+        },
+        {
+          "name": "Sholgara",
+          "population": 129271,
+          "area": 1755,
+          "villages": 74,
+          "ethnicity": "40% Farsiwans (Tajiks, Arabs), 20% Pashtuns (Kandahari, Baloch, Kuchi), 20% Hazaras, 20% Uzbeks"
+        },
+        {
+          "name": "Shortepa",
+          "population": 44773,
+          "area": 1563,
+          "villages": 29,
+          "ethnicity": "Predominantly Turkmens, few Uzbeks"
+        },
+        {
+          "name": "Zari",
+          "population": 49556,
+          "area": 869,
+          "villages": 57,
+          "ethnicity": "Predominantly Hazaras"
+        }
+      ],
+      "map_image": "assets/maps/Balkh.png"
     }
   ]
 }
