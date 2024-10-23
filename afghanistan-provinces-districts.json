@@ -276,6 +276,127 @@
         }
       ],
       "map_image": "assets/maps/Badghis.png"
+    },
+    {
+      "name": "Baghlan",
+      "population": 1014634,
+      "area": 18255,
+      "districts": 56,
+      "ethnic_distribution": {
+        "tajiks": "52.8%",
+        "pashtuns": "25.5%",
+        "hazaras": "13.0%",
+        "uzbeks": "8.2%",
+        "others": "0.2%"
+      },
+      "districts_data": [
+        {
+          "name": "Andarab",
+          "population": 28830,
+          "area": 807,
+          "villages": 36,
+          "ethnicity": "Tajik"
+        },
+        {
+          "name": "Baghlani Jadid",
+          "population": 198382,
+          "area": 1676,
+          "villages": 118,
+          "ethnicity": "Pashtun 70%, Tajik 20%, Uzbek 10%"
+        },
+        {
+          "name": "Burka",
+          "population": 59521,
+          "area": 933,
+          "villages": 64,
+          "ethnicity": "Uzbek 60%, Tajik 20%, Hazara 10%, Pashtun 10%"
+        },
+        {
+          "name": "Dahana-I-Ghuri",
+          "population": 66618,
+          "area": 1333,
+          "villages": 50,
+          "ethnicity": "80% Pashtun, 10% Hazara, 10% Uzbek"
+        },
+        {
+          "name": "Dih Salah",
+          "population": 36137,
+          "area": 633,
+          "villages": 57,
+          "ethnicity": "Tajik dominated"
+        },
+        {
+          "name": "Dushi",
+          "population": 75597,
+          "area": 2356,
+          "villages": 32,
+          "ethnicity": "60% Hazara, 39% Tajik"
+        },
+        {
+          "name": "Farang Wa Gharu",
+          "population": 18733,
+          "area": 244,
+          "villages": 77,
+          "ethnicity": "Tajik dominated"
+        },
+        {
+          "name": "Guzargahi Nur",
+          "population": 11426,
+          "area": 425,
+          "villages": 27,
+          "ethnicity": "Tajik dominated"
+        },
+        {
+          "name": "Khinjan",
+          "population": 34411,
+          "area": 1017,
+          "villages": 34,
+          "ethnicity": "85% Tajik, 5% Hazara, 5% Pashtun, 5% others"
+        },
+        {
+          "name": "Khost Wa Fereng",
+          "population": 71345,
+          "area": 1898,
+          "villages": 38,
+          "ethnicity": "Tajik dominated"
+        },
+        {
+          "name": "Khwaja Hijran",
+          "population": 26971,
+          "area": 659,
+          "villages": 41,
+          "ethnicity": "Tajik dominated"
+        },
+        {
+          "name": "Nahrin",
+          "population": 78438,
+          "area": 998,
+          "villages": 79,
+          "ethnicity": "Tajik 60%, Pashtun 35%, Uzbek 5%"
+        },
+        {
+          "name": "Puli Hisar",
+          "population": 31222,
+          "area": 905,
+          "villages": 35,
+          "ethnicity": "Tajik dominated"
+        },
+        {
+          "name": "Puli Khumri",
+          "population": 242859,
+          "area": 664,
+          "villages": 366,
+          "ethnicity": "Tajik 60%, Hazara 20%, Pashtun 13%, Uzbek 7%"
+        },
+        {
+          "name": "Tala wa Barfak",
+          "population": 34144,
+          "area": 2525,
+          "villages": 14,
+          "ethnicity": "Hazara 70%, Tajik 30%"
+        }
+      ],
+      "map_image": "assets/maps/Baghlan.png"
     }
   ]
 }
