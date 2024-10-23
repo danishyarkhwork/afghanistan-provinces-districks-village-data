@@ -1,214 +1,281 @@
 {
-  "province": {
-    "name": "Badakhshan",
-    "population": 1054087,
-    "area": 44836,
-    "districts": 24,
-    "ethnic_distribution": {
-      "farsiwan": "85.4%",
-      "pamiris": "7.2%",
-      "turkmens": "5.4%",
-      "baloch": "1.5%",
-      "kyrgyz": "0.5%"
+  "provinces": [
+    {
+      "name": "Badakhshan",
+      "population": 1054087,
+      "area": 44836,
+      "districts": 24,
+      "ethnic_distribution": {
+        "farsiwan": "85.4%",
+        "pamiris": "7.2%",
+        "turkmens": "5.4%",
+        "baloch": "1.5%",
+        "kyrgyz": "0.5%"
+      },
+      "districts_data": [
+        {
+          "name": "Arghanj Khwa",
+          "population": 18201,
+          "area": 2327,
+          "villages": 8,
+          "ethnicity": "Majority Farsiwan (Tajiks, Aimaqs)"
+        },
+        {
+          "name": "Argo",
+          "population": 88616,
+          "area": 1059,
+          "villages": 145,
+          "ethnicity": "Majority Tajik, minority Turkmens"
+        },
+        {
+          "name": "Baharak",
+          "population": 32551,
+          "area": 324,
+          "villages": 51,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Darayim",
+          "population": 69618,
+          "area": 585,
+          "villages": 101,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Fayzabad",
+          "population": 77154,
+          "area": 497,
+          "villages": 175,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Ishkashim",
+          "population": 15677,
+          "area": 1415,
+          "villages": 43,
+          "ethnicity": "Predominantly Pamiris (Ishkashimi), few Tajik"
+        },
+        {
+          "name": "Jurm",
+          "population": 42671,
+          "area": 1225,
+          "villages": 75,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Khash",
+          "population": 43046,
+          "area": 243,
+          "villages": 21,
+          "ethnicity": "Majority Turkmen, minority Tajik"
+        },
+        {
+          "name": "Khwahan",
+          "population": 18734,
+          "area": 698,
+          "villages": 46,
+          "ethnicity": "Predominantly Tajik"
+        },
+        {
+          "name": "Kishim",
+          "population": 91407,
+          "area": 767,
+          "villages": 100,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Kohistan",
+          "population": 18733,
+          "area": 494,
+          "villages": 13,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Kuf Ab",
+          "population": 25243,
+          "area": 1439,
+          "villages": 18,
+          "ethnicity": "Predominantly Tajik, some Aimaq"
+        },
+        {
+          "name": "Keran wa Menjan",
+          "population": 10761,
+          "area": 4712,
+          "villages": 42,
+          "ethnicity": "Predominantly Pamiri (Munji), few Tajiks"
+        },
+        {
+          "name": "Maimay",
+          "population": 29893,
+          "area": 1217,
+          "villages": 25,
+          "ethnicity": "Predominantly Tajik, some Aimaq"
+        },
+        {
+          "name": "Nusay",
+          "population": 26173,
+          "area": 1589,
+          "villages": 16,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Raghistan",
+          "population": 44773,
+          "area": 1321,
+          "villages": 25,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Shahri Buzurg",
+          "population": 59123,
+          "area": 942,
+          "villages": 74,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Sheghnan",
+          "population": 31487,
+          "area": 1968,
+          "villages": 28,
+          "ethnicity": "Predominantly Pamiri (Shughni)"
+        },
+        {
+          "name": "Shekay",
+          "population": 29760,
+          "area": 635,
+          "villages": 38,
+          "ethnicity": "Tajik"
+        },
+        {
+          "name": "Shuhada",
+          "population": 39061,
+          "area": 1244,
+          "villages": 62,
+          "ethnicity": "Predominantly Farsiwan (Tajik, Aimaq), few Pamiri (Ishkashimi)"
+        },
+        {
+          "name": "Tagab",
+          "population": 31753,
+          "area": 1401,
+          "villages": 23,
+          "ethnicity": "Mixed Tajik and Baloch"
+        },
+        {
+          "name": "Tishkan",
+          "population": 33746,
+          "area": 821,
+          "villages": 57,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Wakhan",
+          "population": 16873,
+          "area": 10930,
+          "villages": 110,
+          "ethnicity": "Majority Pamiri (Wakhi), minority Kyrgyz"
+        },
+        {
+          "name": "Warduj",
+          "population": 24712,
+          "area": 684,
+          "villages": 45,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Yaftali Sufla",
+          "population": 59654,
+          "area": 606,
+          "villages": 93,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Yamgan",
+          "population": 29096,
+          "area": 1744,
+          "villages": 39,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Yawan",
+          "population": 36669,
+          "area": 431,
+          "villages": 85,
+          "ethnicity": "100% Tajik"
+        },
+        {
+          "name": "Zebak",
+          "population": 8902,
+          "area": 2057,
+          "villages": 62,
+          "ethnicity": "Majority Pamiri, minority Tajik"
+        }
+      ],
+      "map_image": "assets/maps/Badakhshan.png"
     },
-    "districts_data": [
-      {
-        "name": "Arghanj Khwa",
-        "population": 18201,
-        "area": 2327,
-        "villages": 8,
-        "ethnicity": "Majority Farsiwan (Tajiks, Aimaqs)"
+    {
+      "name": "Badghis",
+      "population": 549583,
+      "area": 20794,
+      "districts": 26,
+      "ethnic_distribution": {
+        "pashtuns": "51.7%",
+        "farsiwan": "44.9%",
+        "balochi": "0.5%",
+        "turkmens": "1.5%",
+        "uzbeks": "1.4%"
       },
-      {
-        "name": "Argo",
-        "population": 88616,
-        "area": 1059,
-        "villages": 145,
-        "ethnicity": "Majority Tajik, minority Turkmens"
-      },
-      {
-        "name": "Baharak",
-        "population": 32551,
-        "area": 324,
-        "villages": 51,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Darayim",
-        "population": 69618,
-        "area": 585,
-        "villages": 101,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Fayzabad",
-        "population": 77154,
-        "area": 497,
-        "villages": 175,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Ishkashim",
-        "population": 15677,
-        "area": 1415,
-        "villages": 43,
-        "ethnicity": "Predominantly Pamiris (Ishkashimi), few Tajik"
-      },
-      {
-        "name": "Jurm",
-        "population": 42671,
-        "area": 1225,
-        "villages": 75,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Khash",
-        "population": 43046,
-        "area": 243,
-        "villages": 21,
-        "ethnicity": "Majority Turkmen, minority Tajik"
-      },
-      {
-        "name": "Khwahan",
-        "population": 18734,
-        "area": 698,
-        "villages": 46,
-        "ethnicity": "Predominantly Tajik"
-      },
-      {
-        "name": "Kishim",
-        "population": 91407,
-        "area": 767,
-        "villages": 100,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Kohistan",
-        "population": 18733,
-        "area": 494,
-        "villages": 13,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Kuf Ab",
-        "population": 25243,
-        "area": 1439,
-        "villages": 18,
-        "ethnicity": "Predominantly Tajik, some Aimaq"
-      },
-      {
-        "name": "Keran wa Menjan",
-        "population": 10761,
-        "area": 4712,
-        "villages": 42,
-        "ethnicity": "Predominantly Pamiri (Munji), few Tajiks"
-      },
-      {
-        "name": "Maimay",
-        "population": 29893,
-        "area": 1217,
-        "villages": 25,
-        "ethnicity": "Predominantly Tajik, some Aimaq"
-      },
-      {
-        "name": "Nusay",
-        "population": 26173,
-        "area": 1589,
-        "villages": 16,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Raghistan",
-        "population": 44773,
-        "area": 1321,
-        "villages": 25,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Shahri Buzurg",
-        "population": 59123,
-        "area": 942,
-        "villages": 74,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Sheghnan",
-        "population": 31487,
-        "area": 1968,
-        "villages": 28,
-        "ethnicity": "Predominantly Pamiri (Shughni)"
-      },
-      {
-        "name": "Shekay",
-        "population": 29760,
-        "area": 635,
-        "villages": 38,
-        "ethnicity": "Tajik"
-      },
-      {
-        "name": "Shuhada",
-        "population": 39061,
-        "area": 1244,
-        "villages": 62,
-        "ethnicity": "Predominantly Farsiwan (Tajik, Aimaq), few Pamiri (Ishkashimi)"
-      },
-      {
-        "name": "Tagab",
-        "population": 31753,
-        "area": 1401,
-        "villages": 23,
-        "ethnicity": "Mixed Tajik and Baloch"
-      },
-      {
-        "name": "Tishkan",
-        "population": 33746,
-        "area": 821,
-        "villages": 57,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Wakhan",
-        "population": 16873,
-        "area": 10930,
-        "villages": 110,
-        "ethnicity": "Majority Pamiri (Wakhi), minority Kyrgyz"
-      },
-      {
-        "name": "Warduj",
-        "population": 24712,
-        "area": 684,
-        "villages": 45,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Yaftali Sufla",
-        "population": 59654,
-        "area": 606,
-        "villages": 93,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Yamgan",
-        "population": 29096,
-        "area": 1744,
-        "villages": 39,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Yawan",
-        "population": 36669,
-        "area": 431,
-        "villages": 85,
-        "ethnicity": "100% Tajik"
-      },
-      {
-        "name": "Zebak",
-        "population": 8902,
-        "area": 2057,
-        "villages": 62,
-        "ethnicity": "Majority Pamiri, minority Tajik"
-      }
-    ]
-  },
-  "map_image": "assets/maps/Badakhshan.png"
+      "districts_data": [
+        {
+          "name": "Ab Kamari",
+          "population": 83169,
+          "area": 2311,
+          "villages": 36,
+          "ethnicity": "80% Tajiks, 20% Pashtuns"
+        },
+        {
+          "name": "Ghormach",
+          "population": 62311,
+          "area": 1782,
+          "villages": 35,
+          "ethnicity": "97% Pashtuns, 2% Tajik Aimaqs, 1% Baloch"
+        },
+        {
+          "name": "Jawand",
+          "population": 89148,
+          "area": 6105,
+          "villages": 15,
+          "ethnicity": "Mixed Pashtuns and Tajiks"
+        },
+        {
+          "name": "Muqur",
+          "population": 26838,
+          "area": 620,
+          "villages": 43,
+          "ethnicity": "Mixed Pashtuns and Tajiks"
+        },
+        {
+          "name": "Bala Murghab",
+          "population": 109874,
+          "area": 4237,
+          "villages": 26,
+          "ethnicity": "85.6% Pashtuns, 7% Tajiks, 7% Turkmens, 0.3% Uzbeks"
+        },
+        {
+          "name": "Qadis",
+          "population": 102833,
+          "area": 3391,
+          "villages": 30,
+          "ethnicity": "Mixed Pashtuns and Tajiks"
+        },
+        {
+          "name": "Qala i Naw",
+          "population": 75410,
+          "area": 841,
+          "villages": 90,
+          "ethnicity": "82% Tajiks, 10% Uzbeks, 5% Pashtuns, 3% Baloch, 1% Turkmen"
+        }
+      ],
+      "map_image": "assets/maps/Badghis.png"
+    }
+  ]
 }
