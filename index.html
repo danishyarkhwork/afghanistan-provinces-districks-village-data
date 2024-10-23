@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modern Afghanistan Province Data</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer>
+      const provinces = [
+        {
+          name: "Badakhshan",
+          pashto_name: "بدخشان",
+          code: "BDK",
+          population: 1054087,
+          area: 44836,
+          districts: 24,
+          capital: "Fayzabad",
+          coordinates: { latitude: 37.129, longitude: 70.574 },
+          major_cities: ["Fayzabad", "Ishkashim", "Jurm"],
+          neighbors: ["Takhar", "Panjshir", "Nuristan", "Tajikistan", "China"],
+          climate: "Cold, mountainous with long winters and short summers.",
+          languages: ["Dari", "Pashto", "Wakhi"],
+          natural_resources: ["Minerals", "Timber", "Freshwater"],
+          districts_data: [
+            {
+              name: "Argo",
+              population: 88616,
+              ethnicity: "Majority Tajik, minority Turkmens",
+            },
+            { name: "Fayzabad", population: 77154, ethnicity: "100% Tajik" },
+          ],
+          economy: {
+            agriculture: "Fruits, livestock",
+            industries: ["Mining", "Tourism"],
+          },
+          transportation: {
+            major_roads: ["Highway 1", "Road to Takhar"],
+            airports: ["Fayzabad Airport"],
+          },
+          cultural_sites: ["Shrine of Hazrat Ali", "Tomb of Nasir Khusraw"],
+          annual_events: ["Nowruz Festival", "Harvest Festival"],
+          religious_groups: {
+            islam_sunni: "95%",
+            islam_shia: "5%",
+          },
+          ethnic_groups: {
+            tajiks: "85.3%",
+            pamiris: "7.2%",
+            turkmens: "5.4%",
+          },
+          map_image: "https://placehold.co/600x400",
+        },
+      ];
+
+      function displayProvinceData(provinceCode) {
+        const province = provinces.find((p) => p.code === provinceCode);
+        document.getElementById("intro-map").style.display = "none"; // Hide map
+        document.getElementById("province-info").style.display = "block"; // Show data
+
+        if (province) {
+          document.getElementById("province-name").textContent = province.name;
+          document.getElementById(
+            "province-population"
+          ).textContent = `Population: ${province.population.toLocaleString()}`;
+          document.getElementById(
+            "province-area"
+          ).textContent = `Area: ${province.area.toLocaleString()} km²`;
+          document.getElementById(
+            "province-districts"
+          ).textContent = `Districts: ${province.districts}`;
+          document.getElementById(
+            "province-capital"
+          ).textContent = `Capital: ${province.capital}`;
+          document.getElementById(
+            "province-climate"
+          ).textContent = `Climate: ${province.climate}`;
+          document.getElementById(
+            "province-languages"
+          ).textContent = `Languages: ${province.languages.join(", ")}`;
+          document.getElementById(
+            "province-neighbors"
+          ).textContent = `Neighbors: ${province.neighbors.join(", ")}`;
+          document.getElementById(
+            "province-resources"
+          ).textContent = `Natural Resources: ${province.natural_resources.join(
+            ", "
+          )}`;
+          document.getElementById(
+            "province-economy"
+          ).textContent = `Agriculture: ${
+            province.economy.agriculture
+          }, Industries: ${province.economy.industries.join(", ")}`;
+          document.getElementById(
+            "province-transport"
+          ).textContent = `Major Roads: ${province.transportation.major_roads.join(
+            ", "
+          )}, Airports: ${province.transportation.airports.join(", ")}`;
+          document.getElementById(
+            "province-culture"
+          ).textContent = `Cultural Sites: ${province.cultural_sites.join(
+            ", "
+          )}, Annual Events: ${province.annual_events.join(", ")}`;
+
+          const districtData = province.districts_data
+            .map(
+              (district) => `
+          <li class="border-b py-2">
+            <span class="font-bold">${
+              district.name
+            }</span> - Population: ${district.population.toLocaleString()}, Ethnicity: ${
+                district.ethnicity
+              }
+          </li>`
+            )
+            .join("");
+          document.getElementById("province-districts-data").innerHTML =
+            districtData;
+
+          const ethnicData = Object.keys(province.ethnic_groups)
+            .map(
+              (group) => `
+          <li class="border-b py-2">
+            <span class="font-bold">${group}</span>: ${province.ethnic_groups[group]}
+          </li>`
+            )
+            .join("");
+          document.getElementById("province-ethnic-groups").innerHTML =
+            ethnicData;
+
+          document.getElementById("province-image").src = province.map_image;
+        }
+      }
+
+      window.onload = () => {
+        document.getElementById("province-info").style.display = "none"; // Hide data initially
+      };
+    </script>
+    <style>
+      /* Glassmorphism Effect */
+      .glass-card {
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(15px);
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+      }
+
+      .glass-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+      }
+
+      /* Animation for Fade-In */
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .fade-in {
+        animation: fadeIn 0.5s ease-out;
+      }
+    </style>
+  </head>
+  <body class="bg-gray-100 min-h-screen">
+    <!-- Header -->
+    <header
+      class="bg-gradient-to-r from-cyan-500 to-teal-500 text-white py-6 shadow-md mb-10"
+    >
+      <div class="container mx-auto">
+        <h1 class="text-4xl font-extrabold tracking-wide">
+          Afghanistan Province Explorer
+        </h1>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="container mx-auto px-6">
+      <div class="grid grid-cols-12 gap-6">
+        <!-- Sidebar (Province List with Search) -->
+        <aside class="col-span-2 bg-white shadow-lg p-4 rounded-lg">
+          <div class="relative mb-4">
+            <input
+              type="text"
+              placeholder="Search Province..."
+              id="province-search"
+              class="w-full px-4 py-2 rounded-full bg-gray-100 text-gray-700 shadow-md focus:ring-4 focus:ring-teal-300 transition focus:outline-none"
+            />
+          </div>
+          <ul id="province-list">
+            <li
+              class="province-list-item cursor-pointer hover:bg-teal-100 transition p-2 rounded-lg glass-card fade-in"
+              onclick="displayProvinceData('BDK')"
+            >
+              Badakhshan
+            </li>
+            <!-- Add more provinces dynamically -->
+          </ul>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="col-span-10">
+          <!-- Default Map (Visible until a province is selected) -->
+          <div id="intro-map" class="fade-in">
+            <img
+              src="https://placehold.co/1000x600"
+              alt="Afghanistan Map"
+              class="w-full rounded-lg shadow-md"
+            />
+          </div>
+
+          <!-- Province Information (Hidden by default) -->
+          <div
+            id="province-info"
+            class="grid grid-cols-1 lg:grid-cols-3 gap-8 fade-in mt-8"
+          >
+            <!-- Province Overview -->
+            <div
+              class="col-span-3 bg-gradient-to-r from-teal-500 to-cyan-500 p-8 rounded-lg shadow-md text-white glass-card"
+            >
+              <h1 id="province-name" class="text-5xl font-bold mb-6">
+                Province Name
+              </h1>
+              <p class="text-lg" id="province-description">
+                This is where the province's overview will be displayed.
+              </p>
+            </div>
+
+            <!-- Data Cards (3 Cards per Row) -->
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">Population</h3>
+              <p
+                id="province-population"
+                class="text-3xl font-bold text-teal-600"
+              ></p>
+            </div>
+
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">Area</h3>
+              <p
+                id="province-area"
+                class="text-3xl font-bold text-teal-600"
+              ></p>
+            </div>
+
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">Climate</h3>
+              <p id="province-climate" class="text-lg"></p>
+            </div>
+
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">Languages</h3>
+              <p id="province-languages" class="text-lg"></p>
+            </div>
+
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">Natural Resources</h3>
+              <p id="province-resources" class="text-lg"></p>
+            </div>
+
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">Economy</h3>
+              <p id="province-economy" class="text-lg"></p>
+            </div>
+
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">Transportation</h3>
+              <p id="province-transport" class="text-lg"></p>
+            </div>
+
+            <div class="glass-card p-6">
+              <h3 class="text-xl font-semibold mb-2">
+                Cultural Sites & Events
+              </h3>
+              <p id="province-culture" class="text-lg"></p>
+            </div>
+
+            <!-- Districts -->
+            <div class="col-span-3 mt-12">
+              <h2 class="text-3xl font-semibold mb-6">Districts</h2>
+              <ul
+                id="province-districts-data"
+                class="grid grid-cols-1 md:grid-cols-2 gap-4"
+              ></ul>
+            </div>
+
+            <!-- Ethnic Groups -->
+            <div class="col-span-3 mt-12">
+              <h2 class="text-3xl font-semibold mb-6">Ethnic Groups</h2>
+              <ul
+                id="province-ethnic-groups"
+                class="grid grid-cols-1 md:grid-cols-2 gap-4"
+              ></ul>
+            </div>
+          </div>
+        </main>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-6 mt-10">
+      <div class="container mx-auto text-center">
+        <p>&copy; 2024 Afghanistan Province Explorer. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
