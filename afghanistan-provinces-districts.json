@@ -517,6 +517,76 @@
         }
       ],
       "map_image": "assets/maps/Balkh.png"
+    },
+    {
+      "name": "Bamyan",
+      "population": 495557,
+      "area": 18029,
+      "districts": 27,
+      "ethnic_distribution": {
+        "hazaras": "83.9% (71.1% Shiites, 10.8% Sayyids, 1.1% Ismailis, 0.9% Sunni Tatars)",
+        "farsiwan": "16.1% (15.9% Tajiks, 0.2% Qizilbash)",
+        "pashtuns": "0.3%"
+      },
+      "districts_data": [
+        {
+          "name": "Bamyan",
+          "population": 94855,
+          "area": 1798,
+          "villages": 53,
+          "ethnicity": "94% Hazaras (82% Shiites, 12% Sayyids), 5% Tajiks, 1% Qizilbash, <1% Pashtuns"
+        },
+        {
+          "name": "Kahmard",
+          "population": 41053,
+          "area": 1389,
+          "villages": 30,
+          "ethnicity": "85% Tajiks, 14% Hazaras (8% Shiites, 6% Sunni Tatars), 1% Pashtuns"
+        },
+        {
+          "name": "Panjab",
+          "population": 77058,
+          "area": 1961,
+          "villages": 39,
+          "ethnicity": "100% Hazaras"
+        },
+        {
+          "name": "Sayghan",
+          "population": 27103,
+          "area": 1729,
+          "villages": 16,
+          "ethnicity": "Used to be part of Kahmard District"
+        },
+        {
+          "name": "Shibar",
+          "population": 33348,
+          "area": 1372,
+          "villages": 24,
+          "ethnicity": "53% Hazaras (35% Shiites, 17% Ismailis, 1% Sayyids), 47% Tajiks"
+        },
+        {
+          "name": "Waras",
+          "population": 123293,
+          "area": 2975,
+          "villages": 41,
+          "ethnicity": "99% Hazaras, 1% Sayyids"
+        },
+        {
+          "name": "Yakawlang",
+          "population": 68821,
+          "area": 4579,
+          "villages": 15,
+          "ethnicity": ">99% Hazaras (59% Shiites, 41% Sayyids), <1% Tajiks"
+        },
+        {
+          "name": "Yakawlang 2",
+          "population": 30026,
+          "area": 2223,
+          "villages": 14,
+          "ethnicity": "Used to be part of Yakawlang District"
+        }
+      ],
+      "map_image": "assets/maps/Bamyan.png"
     }
   ]
 }
