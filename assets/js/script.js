@@ -130,16 +130,20 @@ document.addEventListener("DOMContentLoaded", () => {
       },
     });
 
+    // Dynamically generate district cards
     const districtData = province.districts_data
       .map(
         (district) => `
-                <li class="border-b py-2">
-                  <span class="font-bold">${
-                    district.name
-                  }</span> - Population: ${district.population.toLocaleString()}, Ethnicity: ${
-          district.ethnicity
-        }
-                </li>`
+          <li class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <h3 class="text-xl font-semibold text-teal-600 mb-2">${
+              district.name
+            }</h3>
+            <p class="text-lg text-gray-700">Population: <span class="font-bold">${district.population.toLocaleString()}</span></p>
+            <p class="text-lg text-gray-700">Ethnicity: <span class="font-bold">${
+              district.ethnicity
+            }</span></p>
+          </li>
+        `
       )
       .join("");
     document.getElementById("province-districts-data").innerHTML = districtData;
