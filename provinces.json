@@ -2466,5 +2466,217 @@
       }
     ],
     "map_image": "assets/maps/kabul.png"
+  },
+  {
+    "name": "Kandahar",
+    "pashto_name": "کندهار",
+    "code": "KDR",
+    "population": 1399594,
+    "area": 54845,
+    "districts": 19,
+    "capital": "Kandahar",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Kandahar"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Arid, hot summers, mild winters.",
+    "languages": ["Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Fruits, grapes, pomegranates, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": ["Kandahar International Airport"]
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 25.5,
+    "administrative_divisions": {
+      "districts_count": 19,
+      "main_districts": ["Kandahar", "Maiwand", "Panjwayi"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "98.7%",
+      "balochi": "0.9%",
+      "tajiks": "0.1%",
+      "hazaras": "0.1%",
+      "uzbeks": "0.1%",
+      "others": "0.2%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "98.7%",
+      "balochi": "0.9%",
+      "tajiks": "0.1%",
+      "hazaras": "0.1%",
+      "uzbeks": "0.1%",
+      "others": "0.2%"
+    },
+    "districts_data": [
+      {
+        "name": "Arghandab",
+        "pashto_name": "ارغنداب",
+        "population": 70016,
+        "area": 606,
+        "villages": 116,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Arghistan",
+        "pashto_name": "ارغستان",
+        "population": 38928,
+        "area": 3728,
+        "villages": 10,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Daman",
+        "pashto_name": "دامان",
+        "population": 39193,
+        "area": 4179,
+        "villages": 9,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Ghorak",
+        "pashto_name": "غرک",
+        "population": 10895,
+        "area": 1742,
+        "villages": 6,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Kandahar",
+        "pashto_name": "کندهار",
+        "population": 632601,
+        "area": 114,
+        "villages": 5539,
+        "ethnicity": "Predominantly Pashtun, few Baloch, Tajik, Hazara, Uzbek"
+      },
+      {
+        "name": "Khakrez",
+        "pashto_name": "خاکریز",
+        "population": 25774,
+        "area": 1738,
+        "villages": 15,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Maruf",
+        "pashto_name": "ماروف",
+        "population": 37333,
+        "area": 3335,
+        "villages": 11,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Maiwand",
+        "pashto_name": "میوند",
+        "population": 66297,
+        "area": 2963,
+        "villages": 22,
+        "ethnicity": "95% Pashtun, 5% others"
+      },
+      {
+        "name": "Miyanishin",
+        "pashto_name": "میانشین",
+        "population": 17006,
+        "area": 803,
+        "villages": 21,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Nesh",
+        "pashto_name": "نیش",
+        "population": 15146,
+        "area": 1110,
+        "villages": 14,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Panjwayi",
+        "pashto_name": "پنجوائی",
+        "population": 98448,
+        "area": 5841,
+        "villages": 17,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Reg",
+        "pashto_name": "ریگ",
+        "population": 10097,
+        "area": 13470,
+        "villages": 1,
+        "ethnicity": "Baloch and Pashtun"
+      },
+      {
+        "name": "Shah Wali Kot",
+        "pashto_name": "شاه ولی کوټ",
+        "population": 49025,
+        "area": 3345,
+        "villages": 15,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Shorabak",
+        "pashto_name": "شورابک",
+        "population": 13020,
+        "area": 4153,
+        "villages": 3,
+        "ethnicity": "Pashtun and Baloch"
+      },
+      {
+        "name": "Spin Boldak",
+        "pashto_name": "سپین بولدک",
+        "population": 113727,
+        "area": 2963,
+        "villages": 38,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Takhta-pul",
+        "pashto_name": "تخته پل",
+        "population": 14349,
+        "area": 2926,
+        "villages": 5,
+        "ethnicity": "Pashtun"
+      },
+      {
+        "name": "Zhari",
+        "pashto_name": "ژړۍ",
+        "population": 96987,
+        "area": 745.1,
+        "villages": 130,
+        "ethnicity": "Pashtun. Created out of Maiwand and Panjwayi District."
+      },
+      {
+        "name": "Dand",
+        "pashto_name": "دند",
+        "population": 50752,
+        "area": 617,
+        "villages": 82,
+        "ethnicity": "Pashtun"
+      }
+    ],
+    "map_image": "assets/maps/kandahar.png"
   }
 ]
