@@ -121,11 +121,14 @@
     </header>
 
     <!-- Main Content Area -->
-    <main class="container mx-auto px-[9rem] min-h-screen">
+    <main class="container mx-auto px-4 min-h-screen">
       <div class="grid grid-cols-12 gap-6">
         <!-- Sidebar (Province List with Search) -->
-        <aside class="col-span-3 bg-white shadow-lg p-4 rounded-lg">
-          <div class="relative mb-4">
+        <aside
+          class="col-span-12 md:col-span-3 bg-white shadow-lg p-4 rounded-lg"
+        >
+          <!-- Move search bar to top for mobile -->
+          <div class="relative mb-4 w-full">
             <input
               type="text"
               placeholder="Search Province..."
@@ -133,14 +136,14 @@
               class="w-full px-4 py-2 rounded-full bg-gray-100 text-gray-700 shadow-md focus:ring-4 focus:ring-teal-300 transition focus:outline-none"
             />
           </div>
-          <ul id="province-list">
+          <ul id="province-list" class="province-list">
             <!-- Provinces will be dynamically loaded here -->
           </ul>
           <div class="no-results">No results found.</div>
         </aside>
 
         <!-- Main Content Area -->
-        <main class="col-span-9">
+        <main class="col-span-12 md:col-span-9">
           <div id="intro-map" class="fade-in map-container">
             <img
               src="assets/images/afghanistan.png"
@@ -178,6 +181,7 @@
 
             <!-- Data Cards (3 Cards per Row) -->
             <div class="cards-container">
+              <!-- Responsive card layout fixed -->
               <div class="glass-card p-6">
                 <h3 class="card-title">Population</h3>
                 <p

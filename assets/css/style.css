@@ -111,6 +111,34 @@ nav ul li a:hover {
   .province-grid {
     grid-template-columns: repeat(1, 1fr);
   }
+
+  .col-span-9 {
+    margin-top: 2rem;
+  }
+
+  /* Sidebar moves below or stacked at the top */
+  aside {
+    margin-bottom: 2rem;
+  }
+
+  #province-search {
+    margin-bottom: 1rem;
+  }
+
+  .search-bar {
+    position: relative;
+    margin-bottom: 10px;
+    z-index: 10;
+  }
+
+  .province-list {
+    position: relative;
+    background: #ffffff;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 9;
+    border-radius: 0.5rem;
+  }
 }
 
 @media (min-width: 768px) {
