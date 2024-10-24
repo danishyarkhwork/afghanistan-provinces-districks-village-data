@@ -8,6 +8,48 @@
   transition: all 0.3s ease;
 }
 
+.sidebar-fixed {
+  height: 500px;
+  overflow-y: auto;
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: teal gray; /* Firefox */
+}
+
+.sidebar-fixed::-webkit-scrollbar {
+  width: 8px;
+}
+
+.sidebar-fixed::-webkit-scrollbar-track {
+  background: #f0f0f0;
+}
+
+.sidebar-fixed::-webkit-scrollbar-thumb {
+  background-color: #38b2ac; /* teal */
+  border-radius: 10px;
+  border: 2px solid #f0f0f0;
+}
+
+/* Custom Scrollbar for modern browsers */
+.province-list::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.province-list::-webkit-scrollbar-track {
+  background: #f0f0f0; /* Track color */
+}
+
+.province-list::-webkit-scrollbar-thumb {
+  background-color: #38b2ac; /* Scrollbar thumb color (teal) */
+  border-radius: 10px; /* Rounded corners */
+  border: 2px solid #f0f0f0; /* Thumb border color */
+}
+
+/* Firefox scrollbar */
+.province-list {
+  scrollbar-width: thin;
+  scrollbar-color: #38b2ac #f0f0f0; /* Thumb and track color for Firefox */
+}
+
 .glass-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
