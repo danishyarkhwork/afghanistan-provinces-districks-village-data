@@ -3742,5 +3742,109 @@
       }
     ],
     "map_image": "assets/maps/nangarhar.png"
+  },
+  {
+    "name": "Nimruz",
+    "pashto_name": "نیمروز",
+    "code": "NMR",
+    "population": 183554,
+    "area": 42410,
+    "districts": 5,
+    "capital": "Zaranj",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Zaranj"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Arid, hot summers, mild winters.",
+    "languages": ["Balochi", "Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": ["Zaranj Airport"]
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 4,
+    "administrative_divisions": {
+      "districts_count": 5,
+      "main_districts": ["Zaranj", "Chahar Burjak", "Khash Rod"]
+    },
+    "ethnic_groups": {
+      "balochi": "42.2%",
+      "pashtuns": "36.3%",
+      "tajiks": "16.9%",
+      "brahui": "4.6%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "balochi": "42.2%",
+      "pashtuns": "36.3%",
+      "tajiks": "16.9%",
+      "brahui": "4.6%"
+    },
+    "districts_data": [
+      {
+        "name": "Chahar Burjak",
+        "pashto_name": "چهاربرجک",
+        "population": 29893,
+        "area": 20730,
+        "villages": 65,
+        "ethnicity": "88% Baloch, 10% Brahawi, 1% Pashtun, 1% Tajik"
+      },
+      {
+        "name": "Chakhansur",
+        "pashto_name": "چخانسور",
+        "population": 26837,
+        "area": 8856,
+        "villages": 160,
+        "ethnicity": "Pashtun, Tajik, and Baluch"
+      },
+      {
+        "name": "Kang",
+        "pashto_name": "کنگ",
+        "population": 25376,
+        "area": 898,
+        "villages": 28,
+        "ethnicity": "60% Pashtun, 25% Baloch, 15% Tajik"
+      },
+      {
+        "name": "Khash Rod",
+        "pashto_name": "خش رود",
+        "population": 36138,
+        "area": 8066,
+        "villages": 63,
+        "ethnicity": "55% Pashtun, 20% Baloch, 15% Brahawi, 10% Tajik"
+      },
+      {
+        "name": "Zaranj",
+        "pashto_name": "زرنج",
+        "population": 65310,
+        "area": 1716,
+        "villages": 38,
+        "ethnicity": "44% Baloch, 34% Pashtun, 22% Tajik"
+      }
+    ],
+    "map_image": "assets/maps/nimruz.png"
   }
 ]
