@@ -3498,5 +3498,249 @@
       }
     ],
     "map_image": "assets/maps/logar.png"
+  },
+  {
+    "name": "Nangarhar",
+    "pashto_name": "ننگرهار",
+    "code": "NGR",
+    "population": 1701698,
+    "area": 7641,
+    "districts": 24,
+    "capital": "Jalalabad",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Jalalabad"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Semi-arid, hot summers, mild winters.",
+    "languages": ["Pashto", "Pashayi", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, vegetables, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": ["Jalalabad Airport"]
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 223,
+    "administrative_divisions": {
+      "districts_count": 24,
+      "main_districts": ["Jalalabad", "Khogyani", "Surkh Rod"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "92.5% (89.5% Pashtun tribes, 3.0% Pashtunized Arabs)",
+      "pashayi": "4.8%",
+      "hazaras": "2.3%",
+      "hindus": "0.3%",
+      "uzbeks": "0.1%",
+      "tajiks": "<0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "92.5% (89.5% Pashtun tribes, 3.0% Pashtunized Arabs)",
+      "pashayi": "4.8%",
+      "hazaras": "2.3%",
+      "hindus": "0.3%",
+      "uzbeks": "0.1%",
+      "tajiks": "<0.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Jalalabad",
+        "pashto_name": "جلال آباد",
+        "population": 271867,
+        "area": 122,
+        "villages": 2228,
+        "ethnicity": "85% Pashtun, 9% Hazara, 6% Pashai and other"
+      },
+      {
+        "name": "Haska Meyna",
+        "pashto_name": "هسکه مینه",
+        "population": 45570,
+        "area": 337,
+        "villages": 135,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Shinwar",
+        "pashto_name": "شینوار",
+        "population": 67758,
+        "area": 133,
+        "villages": 508,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Achin",
+        "pashto_name": "اچین",
+        "population": 113328,
+        "area": 466,
+        "villages": 243,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Bihsud",
+        "pashto_name": "بهسود",
+        "population": 128474,
+        "area": 265,
+        "villages": 485,
+        "ethnicity": "95% Pashtun and Pashtunized Arab, 5% Hazara"
+      },
+      {
+        "name": "Chaparhar",
+        "pashto_name": "چپرهار",
+        "population": 68156,
+        "area": 277,
+        "villages": 246,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Darai Nur",
+        "pashto_name": "دره نور",
+        "population": 45571,
+        "area": 253,
+        "villages": 180,
+        "ethnicity": "99% Pashai, 1% Pashtun"
+      },
+      {
+        "name": "Bati Kot",
+        "pashto_name": "باتي کوټ",
+        "population": 85562,
+        "area": 195,
+        "villages": 438,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Dur Baba",
+        "pashto_name": "در بابا",
+        "population": 26306,
+        "area": 302,
+        "villages": 87,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Goshta",
+        "pashto_name": "ګوشته",
+        "population": 30823,
+        "area": 523,
+        "villages": 59,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Hisarak",
+        "pashto_name": "حصارک",
+        "population": 34809,
+        "area": 620,
+        "villages": 56,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Kama",
+        "pashto_name": "کامه",
+        "population": 86890,
+        "area": 229,
+        "villages": 380,
+        "ethnicity": "97% Pashtun, 2% Uzbek, 1% Hazara"
+      },
+      {
+        "name": "Khogyani",
+        "pashto_name": "خوږياڼي",
+        "population": 147745,
+        "area": 789,
+        "villages": 187,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Kot",
+        "pashto_name": "کوټ",
+        "population": 58857,
+        "area": 188,
+        "villages": 313,
+        "ethnicity": "99% Pashtun, 1% Tajik"
+      },
+      {
+        "name": "Kuz Kunar",
+        "pashto_name": "کوز کنر",
+        "population": 62178,
+        "area": 298,
+        "villages": 209,
+        "ethnicity": "75% Pashtun, 25% Pashai and others"
+      },
+      {
+        "name": "Lal Pur",
+        "pashto_name": "لال پور",
+        "population": 23117,
+        "area": 475,
+        "villages": 49,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Momand Dara",
+        "pashto_name": "مومند دره",
+        "population": 50752,
+        "area": 240,
+        "villages": 211,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Nazyan",
+        "pashto_name": "نازیان",
+        "population": 16607,
+        "area": 188,
+        "villages": 88,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Pachir Aw Agam",
+        "pashto_name": "پچیر او اگام",
+        "population": 48095,
+        "area": 516,
+        "villages": 93,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Rodat",
+        "pashto_name": "رودات",
+        "population": 78121,
+        "area": 272,
+        "villages": 287,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Sherzad",
+        "pashto_name": "شرزاد",
+        "population": 74932,
+        "area": 480,
+        "villages": 156,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Surkh Rod",
+        "pashto_name": "سرخ رود",
+        "population": 136180,
+        "area": 312,
+        "villages": 437,
+        "ethnicity": "88% Pashtun, 5% Hazara, 7% Pashai, Hindu and others"
+      }
+    ],
+    "map_image": "assets/maps/nangarhar.png"
   }
 ]
