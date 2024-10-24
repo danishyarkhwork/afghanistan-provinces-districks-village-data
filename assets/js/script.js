@@ -75,6 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("province-name").textContent = province.name;
     document.getElementById("province-pashto-name").textContent =
       province.pashto_name;
+    document.getElementById("province-capital").textContent = province.capital;
     document.getElementById("province-image").src = province.map_image;
 
     document.getElementById("province-population").textContent =
