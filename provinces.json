@@ -4490,5 +4490,147 @@
       }
     ],
     "map_image": "assets/maps/panjshir.png"
+  },
+  {
+    "name": "Parwan",
+    "pashto_name": "پروان",
+    "code": "PRW",
+    "population": 737700,
+    "area": 5715,
+    "districts": 10,
+    "capital": "Charikar",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Charikar"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Dari", "Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity low",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 129,
+    "administrative_divisions": {
+      "districts_count": 10,
+      "main_districts": ["Charikar", "Bagram", "Jabal Saraj"]
+    },
+    "ethnic_groups": {
+      "tajiks": "48.5%",
+      "pashtuns": "38.8%",
+      "hazaras": "12.6%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "tajiks": "48.5%",
+      "pashtuns": "38.8%",
+      "hazaras": "12.6%"
+    },
+    "districts_data": [
+      {
+        "name": "Bagram",
+        "pashto_name": "بګرام",
+        "population": 117181,
+        "area": 381,
+        "villages": 308,
+        "ethnicity": "60% Tajiks, 35% Pashtuns, 5% Hazara"
+      },
+      {
+        "name": "Charikar",
+        "pashto_name": "چاریکار",
+        "population": 202210,
+        "area": 258,
+        "villages": 783,
+        "ethnicity": "Mixed Tajiks and Pashtuns"
+      },
+      {
+        "name": "Ghorband",
+        "pashto_name": "غوربند",
+        "population": 109342,
+        "area": 908,
+        "villages": 120,
+        "ethnicity": "Mixed Pashtuns, Tajiks, and Hazaras"
+      },
+      {
+        "name": "Jabal Saraj",
+        "pashto_name": "جبل سراج",
+        "population": 72345,
+        "area": 99,
+        "villages": 730,
+        "ethnicity": "Predominantly Tajiks"
+      },
+      {
+        "name": "Kohi Safi",
+        "pashto_name": "کوهي صافي",
+        "population": 35075,
+        "area": 569,
+        "villages": 62,
+        "ethnicity": "Predominantly Pashtuns"
+      },
+      {
+        "name": "Salang",
+        "pashto_name": "سالنګ",
+        "population": 29362,
+        "area": 547,
+        "villages": 54,
+        "ethnicity": "Predominantly Tajiks, few Pashtuns"
+      },
+      {
+        "name": "Sayed Khel",
+        "pashto_name": "سید خېل",
+        "population": 51549,
+        "area": 31,
+        "villages": 1639,
+        "ethnicity": "Mixed Tajiks and Pashtuns"
+      },
+      {
+        "name": "Sheikh Ali",
+        "pashto_name": "شیخ علي",
+        "population": 27901,
+        "area": 913,
+        "villages": 31,
+        "ethnicity": "Predominantly Hazaras"
+      },
+      {
+        "name": "Shinwari",
+        "pashto_name": "شینوارې",
+        "population": 46501,
+        "area": 722,
+        "villages": 64,
+        "ethnicity": "Predominantly Pashtuns"
+      },
+      {
+        "name": "Surkhi Parsa",
+        "pashto_name": "سرخې پارسا",
+        "population": 46234,
+        "area": 1152,
+        "villages": 40,
+        "ethnicity": "Mixed Hazaras and Tajiks"
+      }
+    ],
+    "map_image": "assets/maps/parwan.png"
   }
 ]
