@@ -1370,5 +1370,222 @@
       }
     ],
     "map_image": "assets/maps/faryab.png"
+  },
+  {
+    "name": "Ghazni",
+    "pashto_name": "غزني",
+    "code": "GHZ",
+    "population": 1362504,
+    "area": 22461,
+    "districts": 19,
+    "capital": "Ghazni",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Ghazni"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Cold winters, mild summers, semi-arid",
+    "languages": ["Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 60.6,
+    "administrative_divisions": {
+      "districts_count": 19,
+      "main_districts": ["Ghazni", "Jaghori", "Qarabagh"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "48.1%",
+      "hazaras": "43.8%",
+      "tajiks": "7.4%",
+      "hindus": "0.7%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni",
+      "islam_shia": "Significant Shia presence"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "48.1%",
+      "hazaras": "43.8%",
+      "tajiks": "7.4%",
+      "hindus": "0.7%"
+    },
+    "districts_data": [
+      {
+        "name": "Ab Band",
+        "pashto_name": "اب بند",
+        "population": 31089,
+        "area": 991,
+        "villages": 31,
+        "ethnicity": ">99% Pashtun, <1% Tajik"
+      },
+      {
+        "name": "Ajristan",
+        "pashto_name": "اجرستان",
+        "population": 32550,
+        "area": 1461,
+        "villages": 22,
+        "ethnicity": "97% Pashtun, 3% Hazara"
+      },
+      {
+        "name": "Andar",
+        "pashto_name": "اندر",
+        "population": 140963,
+        "area": 681,
+        "villages": 207,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Deh Yak",
+        "pashto_name": "ده یک",
+        "population": 55269,
+        "area": 709,
+        "villages": 78,
+        "ethnicity": "89% Hazara, 11% Pashtun"
+      },
+      {
+        "name": "Gelan",
+        "pashto_name": "ګیلان",
+        "population": 65366,
+        "area": 1116,
+        "villages": 59,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Ghazni",
+        "pashto_name": "غزني",
+        "population": 186706,
+        "area": 380,
+        "villages": 491,
+        "ethnicity": "50% Tajik, 25% Pashtun, 20% Hazara, 5% Hindus"
+      },
+      {
+        "name": "Giro",
+        "pashto_name": "ګیرو",
+        "population": 41319,
+        "area": 878,
+        "villages": 47,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Jaghori",
+        "pashto_name": "جاغوری",
+        "population": 199553,
+        "area": 1965,
+        "villages": 102,
+        "ethnicity": "100% Hazara"
+      },
+      {
+        "name": "Jaghatū",
+        "pashto_name": "جغتو",
+        "population": 35871,
+        "area": 696,
+        "villages": 52,
+        "ethnicity": "73% Hazara, 27% Pashtun"
+      },
+      {
+        "name": "Khogyani",
+        "pashto_name": "خوګیانی",
+        "population": 22719,
+        "area": 147,
+        "villages": 155,
+        "ethnicity": ">99% Pashtun, <1% Hazara and Tajik"
+      },
+      {
+        "name": "Khwaja Umari",
+        "pashto_name": "خواجه عمری",
+        "population": 21390,
+        "area": 176,
+        "villages": 122,
+        "ethnicity": "45% Hazara, 35% Tajik, 20% Pashtun"
+      },
+      {
+        "name": "Malistan",
+        "pashto_name": "مالستان",
+        "population": 92736,
+        "area": 1978,
+        "villages": 47,
+        "ethnicity": "100% Hazara"
+      },
+      {
+        "name": "Muqur",
+        "pashto_name": "مقر",
+        "population": 56863,
+        "area": 931,
+        "villages": 61,
+        "ethnicity": "99% Pashtun, 1% Tajik and Hazara"
+      },
+      {
+        "name": "Nawa",
+        "pashto_name": "نوا",
+        "population": 33613,
+        "area": 1753,
+        "villages": 19,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Nawur",
+        "pashto_name": "نورو",
+        "population": 106952,
+        "area": 5097,
+        "villages": 21,
+        "ethnicity": "100% Hazara"
+      },
+      {
+        "name": "Qarabagh",
+        "pashto_name": "قره باغ",
+        "population": 161424,
+        "area": 1690,
+        "villages": 96,
+        "ethnicity": "55% Pashtun, 45% Hazara"
+      },
+      {
+        "name": "Rashidan",
+        "pashto_name": "رشیدان",
+        "population": 20328,
+        "area": 98,
+        "villages": 208,
+        "ethnicity": "96% Pashtun, 4% Hazara"
+      },
+      {
+        "name": "Waghaz",
+        "pashto_name": "واغظ",
+        "population": 43578,
+        "area": 512,
+        "villages": 85,
+        "ethnicity": "Predominantly Pashtun"
+      },
+      {
+        "name": "Zana Khan",
+        "pashto_name": "زنه خان",
+        "population": 14215,
+        "area": 284,
+        "villages": 50,
+        "ethnicity": "100% Pashtun"
+      }
+    ],
+    "map_image": "assets/maps/ghazni.png"
   }
 ]
