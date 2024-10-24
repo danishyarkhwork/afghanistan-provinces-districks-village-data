@@ -1040,5 +1040,155 @@
       }
     ],
     "map_image": "assets/maps/daykundi.png"
+  },
+  {
+    "name": "Farah",
+    "pashto_name": "فراه",
+    "code": "FRH",
+    "population": 563026,
+    "area": 49339,
+    "districts": 11,
+    "capital": "Farah",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Farah"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Arid and semi-arid, hot summers and mild winters.",
+    "languages": ["Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 11.4,
+    "administrative_divisions": {
+      "districts_count": 11,
+      "main_districts": ["Farah", "Bala Buluk", "Gulistan"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "73.8%",
+      "tajiks": "24.4%",
+      "others": "1.8%"
+    },
+    "religious_groups": {
+      "islam_sunni": "100%"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "73.8%",
+      "tajiks": "24.4%",
+      "others": "1.8%"
+    },
+    "districts_data": [
+      {
+        "name": "Anar Dara",
+        "pashto_name": "انار دارہ",
+        "population": 31487,
+        "area": 1703,
+        "villages": 18,
+        "ethnicity": "70% Tajiks, 30% Pashtuns"
+      },
+      {
+        "name": "Bakwa",
+        "pashto_name": "بکوا",
+        "population": 40124,
+        "area": 2324,
+        "villages": 17,
+        "ethnicity": "100% Pashtuns"
+      },
+      {
+        "name": "Bala Buluk",
+        "pashto_name": "بالا بلوک",
+        "population": 80778,
+        "area": 5525,
+        "villages": 15,
+        "ethnicity": "95% Pashtuns, 5% Tajiks"
+      },
+      {
+        "name": "Farah",
+        "pashto_name": "فراه",
+        "population": 128047,
+        "area": 3588,
+        "villages": 36,
+        "ethnicity": "85% Pashtuns, 10% Tajiks, 5% others"
+      },
+      {
+        "name": "Gulistan",
+        "pashto_name": "گلستان",
+        "population": 49025,
+        "area": 6576,
+        "villages": 7,
+        "ethnicity": "80% Pashtuns, 20% Tajiks"
+      },
+      {
+        "name": "Khaki Safed",
+        "pashto_name": "خاکی سفید",
+        "population": 34277,
+        "area": 1938,
+        "villages": 18,
+        "ethnicity": "99% Pashtuns, 1% Tajiks"
+      },
+      {
+        "name": "Lash Wa Juwayn",
+        "pashto_name": "لاش و جوین",
+        "population": 31621,
+        "area": 5323,
+        "villages": 6,
+        "ethnicity": "50% Pashtuns, 50% Tajiks"
+      },
+      {
+        "name": "Pur Chaman",
+        "pashto_name": "پرچمن",
+        "population": 60450,
+        "area": 6188,
+        "villages": 10,
+        "ethnicity": "95% Tajiks, 5% Pashtuns"
+      },
+      {
+        "name": "Pusht Rod",
+        "pashto_name": "پشت رود",
+        "population": 45969,
+        "area": 327,
+        "villages": 141,
+        "ethnicity": "99% Pashtuns, 1% Tajiks"
+      },
+      {
+        "name": "Qala-I-Kah / Pusht-e-Koh",
+        "pashto_name": "قلعه کاه / پشت کوه",
+        "population": 34809,
+        "area": 4485,
+        "villages": 8,
+        "ethnicity": "70% Pashtuns, 30% Tajiks"
+      },
+      {
+        "name": "Shib Koh",
+        "pashto_name": "شیب کوہ",
+        "population": 26439,
+        "area": 2928,
+        "villages": 9,
+        "ethnicity": "70% Pashtuns, 15% Tajiks, 15% others"
+      }
+    ],
+    "map_image": "assets/maps/farah.png"
   }
 ]
