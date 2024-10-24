@@ -2960,5 +2960,199 @@
       }
     ],
     "map_image": "assets/maps/khost.png"
+  },
+  {
+    "name": "Kunar",
+    "pashto_name": "کنړ",
+    "code": "KNR",
+    "population": 499393,
+    "area": 4926,
+    "districts": 15,
+    "capital": "Asadabad",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Asadabad"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Pashto", "Nuristani", "Pashayi"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, rice, fruit, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 101.4,
+    "administrative_divisions": {
+      "districts_count": 15,
+      "main_districts": ["Asadabad", "Dara-I-Pech", "Chawkay"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "97.9%",
+      "nuristanis": "0.7%",
+      "pashayi": "0.7%",
+      "gujars": "0.7%",
+      "tajiks": "<0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "97.9%",
+      "nuristanis": "0.7%",
+      "pashayi": "0.7%",
+      "gujars": "0.7%",
+      "tajiks": "<0.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Asadabad",
+        "pashto_name": "اسعدآباد",
+        "population": 38374,
+        "area": 84,
+        "villages": 455,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Bar Kunar",
+        "pashto_name": "برکنر",
+        "population": 24844,
+        "area": 187,
+        "villages": 133,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Chapa Dara",
+        "pashto_name": "چاپه دره",
+        "population": 35074,
+        "area": 417,
+        "villages": 85,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Chawkay",
+        "pashto_name": "چوکي",
+        "population": 40389,
+        "area": 245,
+        "villages": 167,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Dangam",
+        "pashto_name": "دانگام",
+        "population": 19132,
+        "area": 176,
+        "villages": 109,
+        "ethnicity": "98% Pashtun, 2% Tajik"
+      },
+      {
+        "name": "Dara-I-Pech",
+        "pashto_name": "دره پیج",
+        "population": 61779,
+        "area": 418,
+        "villages": 148,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Ghaziabad",
+        "pashto_name": "غازی آباد",
+        "population": 21124,
+        "area": 578,
+        "villages": 37,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Khas Kunar",
+        "pashto_name": "خاص کنر",
+        "population": 39592,
+        "area": 209,
+        "villages": 190,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Marawara",
+        "pashto_name": "ماراوره",
+        "population": 23118,
+        "area": 147,
+        "villages": 157,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Narang Aw Badil",
+        "pashto_name": "نرنگ و بدیل",
+        "population": 34145,
+        "area": 187,
+        "villages": 183,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Nari",
+        "pashto_name": "ناری",
+        "population": 31222,
+        "area": 305,
+        "villages": 103,
+        "ethnicity": "60% Pashtun, 40% Nuristani, Gujar, and Kohistani (Pashayi)"
+      },
+      {
+        "name": "Nurgal",
+        "pashto_name": "نورګل",
+        "population": 35739,
+        "area": 302,
+        "villages": 118,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Shaigal",
+        "pashto_name": "شايګل",
+        "population": 13585,
+        "area": 336,
+        "villages": 40,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Shultan",
+        "pashto_name": "شلتن",
+        "population": 19497,
+        "area": 93,
+        "villages": 209,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Sirkani",
+        "pashto_name": "سرکانی",
+        "population": 30823,
+        "area": 320,
+        "villages": 96,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Wata Pur",
+        "pashto_name": "واتا پور",
+        "population": 30956,
+        "area": 215,
+        "villages": 144,
+        "ethnicity": "100% Pashtun"
+      }
+    ],
+    "map_image": "assets/maps/kunar.png"
   }
 ]
