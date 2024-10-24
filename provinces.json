@@ -3846,5 +3846,131 @@
       }
     ],
     "map_image": "assets/maps/nimruz.png"
+  },
+  {
+    "name": "Nuristan",
+    "pashto_name": "نورستان",
+    "code": "NUR",
+    "population": 163814,
+    "area": 9267,
+    "districts": 8,
+    "capital": "Parun",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Parun"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Nuristani", "Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 18,
+    "administrative_divisions": {
+      "districts_count": 8,
+      "main_districts": ["Parun", "Kamdesh", "Nurgram"]
+    },
+    "ethnic_groups": {
+      "nuristani": "99.9%",
+      "gujars": "0.1%",
+      "tajiks": "<0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "nuristani": "99.9%",
+      "gujars": "0.1%",
+      "tajiks": "<0.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Barg-i Matal",
+        "pashto_name": "برګ‌مټال",
+        "population": 17537,
+        "area": 1731,
+        "villages": 10,
+        "ethnicity": "100% Nuristani"
+      },
+      {
+        "name": "Du Ab",
+        "pashto_name": "دو آب",
+        "population": 8902,
+        "area": 652,
+        "villages": 14,
+        "ethnicity": "99% Nuristani, 1% Gujar"
+      },
+      {
+        "name": "Kamdesh",
+        "pashto_name": "کامدیش",
+        "population": 28564,
+        "area": 1452,
+        "villages": 20,
+        "ethnicity": "100% Nuristani"
+      },
+      {
+        "name": "Mandol",
+        "pashto_name": "مندول",
+        "population": 22320,
+        "area": 1996,
+        "villages": 11,
+        "ethnicity": "99% Nuristani, 1% Gujar and Tajik"
+      },
+      {
+        "name": "Nurgram",
+        "pashto_name": "نورگرام",
+        "population": 36536,
+        "area": 943,
+        "villages": 39,
+        "ethnicity": "100% Nuristani"
+      },
+      {
+        "name": "Parun",
+        "pashto_name": "پارون",
+        "population": 15279,
+        "area": 1509,
+        "villages": 10,
+        "ethnicity": "100% Nuristani"
+      },
+      {
+        "name": "Wama",
+        "pashto_name": "واما",
+        "population": 12489,
+        "area": 389,
+        "villages": 32,
+        "ethnicity": "100% Nuristani"
+      },
+      {
+        "name": "Waygal",
+        "pashto_name": "ویګل",
+        "population": 22187,
+        "area": 907,
+        "villages": 24,
+        "ethnicity": "100% Nuristani"
+      }
+    ],
+    "map_image": "assets/maps/nuristan.png"
   }
 ]
