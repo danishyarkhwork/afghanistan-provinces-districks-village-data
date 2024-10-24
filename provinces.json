@@ -4152,5 +4152,219 @@
       }
     ],
     "map_image": "assets/maps/paktia.png"
+  },
+  {
+    "name": "Paktika",
+    "pashto_name": "پکتیکا",
+    "code": "PKA",
+    "population": 775498,
+    "area": 19516,
+    "districts": 19,
+    "capital": "Sharana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Sharana", "Urgun"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 40,
+    "administrative_divisions": {
+      "districts_count": 19,
+      "main_districts": ["Sharana", "Urgun", "Barmal"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "96.4%",
+      "tajiks": "3.6%",
+      "hazaras": "<0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "96.4%",
+      "tajiks": "3.6%",
+      "hazaras": "<0.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Barmal",
+        "pashto_name": "برمل",
+        "population": 78351,
+        "area": 952,
+        "villages": 81,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Dila",
+        "pashto_name": "ډیله",
+        "population": 77006,
+        "area": 952,
+        "villages": 81,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Gayan",
+        "pashto_name": "ګیان",
+        "population": 47848,
+        "area": 1372,
+        "villages": 35,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Gomal",
+        "pashto_name": "ګومل",
+        "population": 46586,
+        "area": 4108,
+        "villages": 11,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Janikhel",
+        "pashto_name": "جانيخېل",
+        "population": 36873,
+        "area": 1052,
+        "villages": 35,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Khairkot (Zarghun Shar or Katawaz)",
+        "pashto_name": "خيرکوټ",
+        "population": 42044,
+        "area": 403,
+        "villages": 105,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Mata Khan",
+        "pashto_name": "مټاخان",
+        "population": 27189,
+        "area": 405,
+        "villages": 67,
+        "ethnicity": "Predominantly Pashtun, few Tajik"
+      },
+      {
+        "name": "Nika",
+        "pashto_name": "نيکه",
+        "population": 17041,
+        "area": 129,
+        "villages": 132,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Omna",
+        "pashto_name": "اومنه",
+        "population": 23811,
+        "area": 468,
+        "villages": 51,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Sar Hawza",
+        "pashto_name": "سرحوزه",
+        "population": 37053,
+        "area": 707,
+        "villages": 52,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Surobi",
+        "pashto_name": "سروبي",
+        "population": 38855,
+        "area": 451,
+        "villages": 86,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Sharana",
+        "pashto_name": "شرنه",
+        "population": 64774,
+        "area": 487,
+        "villages": 133,
+        "ethnicity": "Predominantly Pashtun, few Tajik and Hazara"
+      },
+      {
+        "name": "Terwa",
+        "pashto_name": "تېروه",
+        "population": 11266,
+        "area": 1034,
+        "villages": 11,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Urgun",
+        "pashto_name": "اورګون",
+        "population": 90549,
+        "area": 481,
+        "villages": 188,
+        "ethnicity": "Majority Pashtun, minority Tajik"
+      },
+      {
+        "name": "Wazakhwa",
+        "pashto_name": "وزه خوا",
+        "population": 46647,
+        "area": 2336,
+        "villages": 20,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Wor Mamay",
+        "pashto_name": "ور ممۍ",
+        "population": 21777,
+        "area": 3052,
+        "villages": 7,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Yahyakhel",
+        "pashto_name": "يحيی خېل",
+        "population": 29771,
+        "area": 321,
+        "villages": 93,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Yusufkhel",
+        "pashto_name": "يوسفخېل",
+        "population": 29193,
+        "area": 590,
+        "villages": 50,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Zerok",
+        "pashto_name": "زيروک",
+        "population": 39415,
+        "area": 274,
+        "villages": 144,
+        "ethnicity": "100% Pashtun"
+      }
+    ],
+    "map_image": "assets/maps/paktika.png"
   }
 ]
