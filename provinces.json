@@ -1190,5 +1190,185 @@
       }
     ],
     "map_image": "assets/maps/farah.png"
+  },
+  {
+    "name": "Faryab",
+    "pashto_name": "فاریاب",
+    "code": "FRY",
+    "population": 1109223,
+    "area": 20798,
+    "districts": 14,
+    "capital": "Maymana",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Maymana", "Andkhoy"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Semi-arid, hot summers, cold winters.",
+    "languages": ["Uzbek", "Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 53.3,
+    "administrative_divisions": {
+      "districts_count": 14,
+      "main_districts": ["Maymana", "Andkhoy", "Pashtun Kot"]
+    },
+    "ethnic_groups": {
+      "uzbeks": "58.0%",
+      "tajiks": "21.0%",
+      "turkmens": "13.0%",
+      "pashtuns": "6.0%",
+      "hazaras": "1.5%",
+      "others": "0.4%"
+    },
+    "religious_groups": {
+      "islam_sunni": "100%"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "uzbeks": "58.0%",
+      "tajiks": "21.0%",
+      "turkmens": "13.0%",
+      "pashtuns": "6.0%",
+      "hazaras": "1.5%",
+      "others": "0.4%"
+    },
+    "districts_data": [
+      {
+        "name": "Almar",
+        "pashto_name": "المار",
+        "population": 79449,
+        "area": 2034,
+        "villages": 86,
+        "ethnicity": "60% Uzbek, 30% Turkmen, 10% Tajik"
+      },
+      {
+        "name": "Andkhoy",
+        "pashto_name": "اندخوی",
+        "population": 46789,
+        "area": 378,
+        "villages": 124,
+        "ethnicity": "58% Turkmen, 40% Uzbek, 2% Pashtun"
+      },
+      {
+        "name": "Bilchiragh",
+        "pashto_name": "بلچراغ",
+        "population": 58989,
+        "area": 1098,
+        "villages": 54,
+        "ethnicity": "55% Uzbek, 40% Tajik, 5% Turkmen"
+      },
+      {
+        "name": "Dawlat Abad",
+        "pashto_name": "دولت آباد",
+        "population": 55186,
+        "area": 2657,
+        "villages": 21,
+        "ethnicity": "40% Pashtun, 30% Uzbek, 20% Turkmen, 10% Tajik"
+      },
+      {
+        "name": "Gurziwan",
+        "pashto_name": "گرزیوان",
+        "population": 85694,
+        "area": 1844,
+        "villages": 46,
+        "ethnicity": "40% Uzbek, 30% Tajik, 20% Turkmen, 5% Pashtun, 5% others"
+      },
+      {
+        "name": "Khani Char Bagh",
+        "pashto_name": "خانی چار باغ",
+        "population": 26173,
+        "area": 939,
+        "villages": 28,
+        "ethnicity": "60% Uzbek, 40% Turkmen"
+      },
+      {
+        "name": "Khwaja Sabz Posh",
+        "pashto_name": "خواجه سبز پوش",
+        "population": 57395,
+        "area": 610,
+        "villages": 94,
+        "ethnicity": "80% Tajik, 19% Hazara, 1% Pashtun"
+      },
+      {
+        "name": "Kohistan",
+        "pashto_name": "کوہستان",
+        "population": 61646,
+        "area": 2402,
+        "villages": 26,
+        "ethnicity": "85% Uzbek, 10% Tajik, 5% Hazara"
+      },
+      {
+        "name": "Maymana",
+        "pashto_name": "میمنہ",
+        "population": 95971,
+        "area": 90,
+        "villages": 1061,
+        "ethnicity": "75% Uzbek, 20% Tajik, 3% Hazara, 2% Pashtun"
+      },
+      {
+        "name": "Pashtun Kot",
+        "pashto_name": "پشتون کوت",
+        "population": 213371,
+        "area": 2807,
+        "villages": 76,
+        "ethnicity": "65% Uzbek, 30% Tajik, 5% Pashtun"
+      },
+      {
+        "name": "Qaramqol",
+        "pashto_name": "قرمقل",
+        "population": 22187,
+        "area": 1079,
+        "villages": 21,
+        "ethnicity": "60% Turkmen, 35% Uzbek, 5% Pashtun"
+      },
+      {
+        "name": "Qaysar",
+        "pashto_name": "قیصار",
+        "population": 161025,
+        "area": 2257,
+        "villages": 71,
+        "ethnicity": "70% Uzbek, 16% Tajik, 10% Pashtun, 4% Turkmen"
+      },
+      {
+        "name": "Qurghan",
+        "pashto_name": "قرغان",
+        "population": 53277,
+        "area": 806,
+        "villages": 66,
+        "ethnicity": "60% Turkmen, 40% Uzbek"
+      },
+      {
+        "name": "Shirin Tagab",
+        "pashto_name": "شیرین تگاب",
+        "population": 92071,
+        "area": 1809,
+        "villages": 51,
+        "ethnicity": "80% Uzbek, 10% Pashtun, 10% Tajik"
+      }
+    ],
+    "map_image": "assets/maps/faryab.png"
   }
 ]
