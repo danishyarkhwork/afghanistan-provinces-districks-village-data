@@ -137,7 +137,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <li class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
             <h3 class="text-xl font-semibold text-teal-600 mb-2">${
               district.name
-            }</h3>
+            } - ${district.pashto_name}</h3>
             <p class="text-lg text-gray-700">Population: <span class="font-bold">${district.population.toLocaleString()}</span></p>
             <p class="text-lg text-gray-700">Ethnicity: <span class="font-bold">${
               district.ethnicity
