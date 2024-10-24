@@ -2796,5 +2796,169 @@
       }
     ],
     "map_image": "assets/maps/kapisa.png"
+  },
+  {
+    "name": "Khost",
+    "pashto_name": "خوست",
+    "code": "KHT",
+    "population": 636522,
+    "area": 4235,
+    "districts": 13,
+    "capital": "Khost",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Khost"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Semi-arid, hot summers, mild winters.",
+    "languages": ["Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": ["Khost International Airport"]
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 150.3,
+    "administrative_divisions": {
+      "districts_count": 13,
+      "main_districts": ["Khost", "Sabari", "Mandozayi"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "99.8%",
+      "tajiks": "0.2%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "99.8%",
+      "tajiks": "0.2%"
+    },
+    "districts_data": [
+      {
+        "name": "Bak",
+        "pashto_name": "باک",
+        "population": 24977,
+        "area": 139,
+        "villages": 180,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Gurbuz",
+        "pashto_name": "ګربز",
+        "population": 29627,
+        "area": 379,
+        "villages": 78,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Jaji Maydan",
+        "pashto_name": "جاجی میدان",
+        "population": 27236,
+        "area": 331,
+        "villages": 82,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Khost",
+        "pashto_name": "خوست",
+        "population": 156106,
+        "area": 418,
+        "villages": 373,
+        "ethnicity": "Predominantly Pashtun, few Tajiks"
+      },
+      {
+        "name": "Mandozayi",
+        "pashto_name": "مندوزي",
+        "population": 63772,
+        "area": 128,
+        "villages": 498,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Musa Khel",
+        "pashto_name": "موسی خیل",
+        "population": 46368,
+        "area": 470,
+        "villages": 99,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Nadir Shah Kot",
+        "pashto_name": "نادرشاه کوټ",
+        "population": 36005,
+        "area": 381,
+        "villages": 94,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Qalandar",
+        "pashto_name": "قلندر",
+        "population": 11559,
+        "area": 100,
+        "villages": 116,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Sabari",
+        "pashto_name": "صبري",
+        "population": 80114,
+        "area": 259,
+        "villages": 310,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Shamal",
+        "pashto_name": "شمل",
+        "population": 15411,
+        "area": 169,
+        "villages": 91,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Spera",
+        "pashto_name": "سپيره",
+        "population": 27501,
+        "area": 499,
+        "villages": 55,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Tani",
+        "pashto_name": "تني",
+        "population": 67360,
+        "area": 410,
+        "villages": 164,
+        "ethnicity": ">99% Pashtun"
+      },
+      {
+        "name": "Tirazayi",
+        "pashto_name": "تره زايي",
+        "population": 50486,
+        "area": 427,
+        "villages": 118,
+        "ethnicity": ">99% Pashtun"
+      }
+    ],
+    "map_image": "assets/maps/khost.png"
   }
 ]
