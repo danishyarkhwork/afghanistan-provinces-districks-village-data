@@ -3154,5 +3154,129 @@
       }
     ],
     "map_image": "assets/maps/kunar.png"
+  },
+  {
+    "name": "Kunduz",
+    "pashto_name": "کندز",
+    "code": "KDZ",
+    "population": 1136677,
+    "area": 8081,
+    "districts": 7,
+    "capital": "Kunduz",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Kunduz"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Semi-arid, hot summers, cold winters.",
+    "languages": ["Dari", "Pashto", "Uzbek"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, rice, cotton, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 141,
+    "administrative_divisions": {
+      "districts_count": 7,
+      "main_districts": ["Kunduz", "Imam Sahib", "Khan Abad"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "33.2%",
+      "uzbeks": "26.8%",
+      "tajiks": "21.8%",
+      "turkmens": "9.9%",
+      "hazaras": "6.1%",
+      "pashayi": "1.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "33.2%",
+      "uzbeks": "26.8%",
+      "tajiks": "21.8%",
+      "turkmens": "9.9%",
+      "hazaras": "6.1%",
+      "pashayi": "1.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Ali Abad",
+        "pashto_name": "علی‌آباد",
+        "population": 53276,
+        "area": 565,
+        "villages": 94,
+        "ethnicity": "47% Pashtuns, 33% Tajiks, 12% Hazara, 8% Uzbeks"
+      },
+      {
+        "name": "Archi",
+        "pashto_name": "ارچی",
+        "population": 95903,
+        "area": 676,
+        "villages": 142,
+        "ethnicity": "40% Pashtuns, 35% Uzbeks, 15% Tajiks, 10% Turkmen"
+      },
+      {
+        "name": "Chardara",
+        "pashto_name": "چهاردراه",
+        "population": 83037,
+        "area": 1158,
+        "villages": 72,
+        "ethnicity": "33% Uzbeks, 25% Tajiks, 22% Pashtuns, 17% Turkmen, 3% Hazara"
+      },
+      {
+        "name": "Imam Sahib",
+        "pashto_name": "امام صاحب",
+        "population": 264555,
+        "area": 1778,
+        "villages": 149,
+        "ethnicity": "45% Uzbeks, 25% Pashtuns, 25% Tajiks, <1% Hazara"
+      },
+      {
+        "name": "Khan Abad",
+        "pashto_name": "خان آباد",
+        "population": 184062,
+        "area": 1092,
+        "villages": 169,
+        "ethnicity": "40% Pashtuns, 25% Tajiks, 20% Hazara, 10% Uzbeks, 5% Pashai"
+      },
+      {
+        "name": "Kunduz",
+        "pashto_name": "کندز",
+        "population": 376232,
+        "area": 612,
+        "villages": 615,
+        "ethnicity": "33% Pashtuns, 27% Uzbeks, 22% Tajiks, 11% Turkmen, 6% Hazara, 1% Pashai"
+      },
+      {
+        "name": "Qalay-I-Zal",
+        "pashto_name": "قلعه زال",
+        "population": 79612,
+        "area": 1984,
+        "villages": 40,
+        "ethnicity": "60% Turkmen, 40% Pashtuns"
+      }
+    ],
+    "map_image": "assets/maps/kunduz.png"
   }
 ]
