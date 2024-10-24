@@ -146,11 +146,6 @@
             id="province-list"
             class="province-list overflow-y-auto space-y-2 mt-4 h-[calc(100%-100px)] scrollbar-thin scrollbar-thumb-teal-500 scrollbar-track-gray-200"
             style="overflow-x: hidden"
-            <!--
-            Prevent
-            horizontal
-            scroll
-            --
           >
             >
             <!-- Example province item for visualization -->
@@ -183,94 +178,148 @@
           </div>
 
           <!-- Province Information (Hidden by default) -->
-          <div id="province-info" class="fade-in mt-8 hidden">
-            <div class="province-grid">
-              <!-- Province Name Card -->
+          <!-- Province Information (Hidden by default) -->
+          <div id="province-info" class="fade-in mt-12 hidden">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <!-- Province Name Card (Left Column) -->
               <div
-                class="bg-gradient-to-r from-teal-500 to-cyan-500 p-8 rounded-lg shadow-md text-white glass-card mb-8"
-                style="height: 250px"
+                class="bg-gradient-to-r from-teal-500 to-cyan-500 p-8 rounded-lg shadow-lg text-white flex flex-col justify-center"
+                style="height: 300px"
               >
-                <h1 id="province-name" class="text-5xl font-bold mb-6">
+                <h1
+                  id="province-name"
+                  class="text-4xl md:text-5xl font-bold mb-4"
+                >
                   Province Name
                 </h1>
-                <h1 id="province-pashto-name" class="text-5xl font-bold mb-6">
-                  Province Name
-                </h1>
+                <h2
+                  id="province-pashto-name"
+                  class="text-2xl md:text-4xl font-light opacity-80"
+                >
+                  Pashto Name
+                </h2>
               </div>
 
-              <!-- Province Map -->
-              <div class="map-container">
+              <!-- Province Map (Right Column) -->
+              <div
+                class="map-container flex justify-center items-center"
+                style="height: 300px"
+              >
                 <img
                   id="province-image"
                   src=""
                   alt="Province Map"
-                  style="height: 250px"
+                  class="w-full max-w-full md:max-w-md rounded-lg shadow-md object-cover"
+                  style="height: 100%"
                 />
               </div>
             </div>
 
-            <!-- Data Cards (3 Cards per Row) -->
-            <div class="cards-container">
-              <!-- Responsive card layout fixed -->
-              <div class="glass-card p-6">
-                <h3 class="card-title">Population</h3>
+            <!-- Data Cards Section -->
+            <div
+              class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8"
+            >
+              <!-- Population Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Population
+                </h3>
                 <p
                   id="province-population"
-                  class="text-xl font-bold text-teal-600"
+                  class="text-2xl font-bold text-gray-800"
                 ></p>
               </div>
 
-              <div class="glass-card p-6">
-                <h3 class="card-title">Area</h3>
+              <!-- Area Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Area
+                </h3>
                 <p
                   id="province-area"
-                  class="text-xl font-bold text-teal-600"
+                  class="text-2xl font-bold text-gray-800"
                 ></p>
               </div>
 
-              <div class="glass-card p-6">
-                <h3 class="card-title">Climate</h3>
-                <p id="province-climate" class="text-lg"></p>
+              <!-- Climate Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Climate
+                </h3>
+                <p id="province-climate" class="text-lg text-gray-700"></p>
               </div>
 
-              <div class="glass-card p-6">
-                <h3 class="card-title">Languages</h3>
-                <p id="province-languages" class="text-lg"></p>
+              <!-- Languages Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Languages
+                </h3>
+                <p id="province-languages" class="text-lg text-gray-700"></p>
               </div>
 
-              <div class="glass-card p-6">
-                <h3 class="card-title">Natural Resources</h3>
-                <p id="province-resources" class="text-lg"></p>
+              <!-- Natural Resources Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Natural Resources
+                </h3>
+                <p id="province-resources" class="text-lg text-gray-700"></p>
               </div>
 
-              <div class="glass-card p-6">
-                <h3 class="card-title">Economy</h3>
-                <p id="province-economy" class="text-lg"></p>
+              <!-- Economy Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Economy
+                </h3>
+                <p id="province-economy" class="text-lg text-gray-700"></p>
               </div>
 
-              <div class="glass-card p-6">
-                <h3 class="card-title">Transportation</h3>
-                <p id="province-transport" class="text-lg"></p>
+              <!-- Transportation Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Transportation
+                </h3>
+                <p id="province-transport" class="text-lg text-gray-700"></p>
               </div>
 
-              <div class="glass-card p-6">
-                <h3 class="card-title">Cultural Sites & Events</h3>
-                <p id="province-culture" class="text-lg"></p>
+              <!-- Cultural Sites Card -->
+              <div
+                class="glass-card p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+              >
+                <h3 class="card-title text-xl font-semibold text-teal-600 mb-2">
+                  Cultural Sites & Events
+                </h3>
+                <p id="province-culture" class="text-lg text-gray-700"></p>
               </div>
             </div>
 
             <!-- Ethnic Groups Pie Chart -->
-            <div class="my-8 chart-container">
+            <div class="my-12 chart-container">
               <h2 class="text-3xl font-semibold mb-6">Ethnic Groups</h2>
-              <canvas id="ethnicChart"></canvas>
+              <div class="bg-white p-4 rounded-lg shadow-md">
+                <canvas id="ethnicChart"></canvas>
+              </div>
             </div>
 
-            <!-- Districts -->
+            <!-- Districts Section -->
             <div class="mt-12">
               <h2 class="text-3xl font-semibold mb-6">Districts</h2>
               <ul
                 id="province-districts-data"
-                class="grid grid-cols-1 md:grid-cols-2 gap-4"
+                class="grid grid-cols-1 sm:grid-cols-2 gap-6"
               ></ul>
             </div>
           </div>
