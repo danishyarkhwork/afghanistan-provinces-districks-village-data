@@ -1587,5 +1587,158 @@
       }
     ],
     "map_image": "assets/maps/ghazni.png"
+  },
+  {
+    "name": "Ghor",
+    "pashto_name": "غور",
+    "code": "GOR",
+    "population": 764472,
+    "area": 36657,
+    "districts": 11,
+    "capital": "Chaghcharan",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Chaghcharan"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Cold winters, mild summers, semi-arid",
+    "languages": ["Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 20.9,
+    "administrative_divisions": {
+      "districts_count": 11,
+      "main_districts": ["Chaghcharan", "Pasaband", "Taywara"]
+    },
+    "ethnic_groups": {
+      "farsiwan": "71.0%",
+      "hazaras": "26.5%",
+      "pashtuns": "2.0%",
+      "uzbeks": "0.4%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni",
+      "islam_shia": "Significant Shia presence"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "farsiwan": "71.0% (59.2% Aimaqs, 11.8% Tajiks)",
+      "hazaras": "26.5%",
+      "pashtuns": "2.0%",
+      "uzbeks": "0.4%"
+    },
+    "districts_data": [
+      {
+        "name": "Chaghcharan",
+        "pashto_name": "چغچران",
+        "population": 132537,
+        "area": 6870,
+        "villages": 19,
+        "ethnicity": "96% Tajik Aimaqs, 2% Pashtuns, 2% Hazaras"
+      },
+      {
+        "name": "Charsada",
+        "pashto_name": "چارسده",
+        "population": 30956,
+        "area": 1485,
+        "villages": 21,
+        "ethnicity": "60% Tajik Aimaqs, 30% Hazaras, 10% Uzbeks"
+      },
+      {
+        "name": "Dawlat Yar",
+        "pashto_name": "دولت یار",
+        "population": 36934,
+        "area": 1686,
+        "villages": 22,
+        "ethnicity": "Predominantly Hazaras, few Tajik Aimaqs"
+      },
+      {
+        "name": "Du Layna",
+        "pashto_name": "دو لینه",
+        "population": 40788,
+        "area": 3246,
+        "villages": 13,
+        "ethnicity": "Predominantly Tajik Aimaqs"
+      },
+      {
+        "name": "Lal wa Sarjangal",
+        "pashto_name": "لال و سرجنگل",
+        "population": 126615,
+        "area": 3634,
+        "villages": 35,
+        "ethnicity": "100% Hazaras"
+      },
+      {
+        "name": "Marghab",
+        "pashto_name": "مرغاب",
+        "population": 21051,
+        "area": 2930,
+        "villages": 7,
+        "ethnicity": "Predominantly Hazaras"
+      },
+      {
+        "name": "Pasaband",
+        "pashto_name": "پسابند",
+        "population": 107217,
+        "area": 5073,
+        "villages": 21,
+        "ethnicity": "84% Tajiks, 11% Pashtuns, 5% Hazaras"
+      },
+      {
+        "name": "Saghar",
+        "pashto_name": "ساغر",
+        "population": 39193,
+        "area": 2404,
+        "villages": 16,
+        "ethnicity": "Predominantly Tajik Aimaqs, few Pashtuns"
+      },
+      {
+        "name": "Shahrak",
+        "pashto_name": "شهرک",
+        "population": 67625,
+        "area": 4600,
+        "villages": 15,
+        "ethnicity": "100% Tajik Aimaqs"
+      },
+      {
+        "name": "Taywara",
+        "pashto_name": "تیوره",
+        "population": 103364,
+        "area": 4030,
+        "villages": 26,
+        "ethnicity": "Predominantly Tajik Aimaq, few Hazaras"
+      },
+      {
+        "name": "Tulak",
+        "pashto_name": "تولک",
+        "population": 58192,
+        "area": 2908,
+        "villages": 20,
+        "ethnicity": "Predominantly Tajik Aimaq, few Pashtuns and Uzbeks"
+      }
+    ],
+    "map_image": "assets/maps/ghor.png"
   }
 ]
