@@ -1,0 +1,138 @@
+/* Custom styles */
+.glass-card {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.glass-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+.province-list-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+
+.province-list-item:hover {
+  background-color: #e2f1f8;
+  transform: scale(1.02);
+}
+
+body.dark {
+  background-color: #1f2937;
+  color: #d1d5db;
+}
+
+.dark .glass-card {
+  background: rgba(31, 41, 55, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.dark .dark-bg {
+  background-color: #111827;
+}
+
+/* Fix layout of 3 cards per row */
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* Adjust province map and chart */
+.map-container img,
+.chart-container {
+  max-width: 100%;
+  height: auto;
+}
+
+.chart-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* Social buttons improved */
+.social-buttons i {
+  font-size: 1.8rem;
+  padding: 10px;
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+  background-color: #0ea5e9;
+  border-radius: 50%;
+  color: white;
+  margin: 5px;
+}
+
+.social-buttons i:hover {
+  color: #fff;
+  transform: translateY(-3px);
+}
+
+/* Menu styles */
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: white;
+  font-weight: 600;
+}
+
+nav ul li a:hover {
+  color: #0ea5e9;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .cards-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .province-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+@media (min-width: 768px) {
+  .province-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  .map-container {
+    max-width: 450px;
+    margin: 0;
+  }
+}
+
+/* Ensure footer is visible */
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background-color: #111827;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+}
