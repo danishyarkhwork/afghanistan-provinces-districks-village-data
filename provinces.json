@@ -2274,5 +2274,197 @@
       }
     ],
     "map_image": "assets/maps/jowzjan.png"
+  },
+  {
+    "name": "Kabul",
+    "pashto_name": "کابل",
+    "code": "KBL",
+    "population": 5204667,
+    "area": 4524,
+    "districts": 15,
+    "capital": "Kabul",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Kabul"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Continental, cold winters, warm summers.",
+    "languages": ["Dari", "Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Fruits, vegetables, wheat, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": ["Kabul International Airport"]
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 1150.4,
+    "administrative_divisions": {
+      "districts_count": 15,
+      "main_districts": ["Kabul", "Paghman", "Bagrami"]
+    },
+    "ethnic_groups": {
+      "tajiks": "44.8% (4.3% Qizilbash)",
+      "pashtuns": "29.3%",
+      "hazaras": "21.6%",
+      "uzbeks": "1.7%",
+      "turkmens": "0.9%",
+      "balochi": "0.9%",
+      "hindus": "0.9%",
+      "pashai": "0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni, with significant Shia presence"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "tajiks": "44.8% (4.3% Qizilbash)",
+      "pashtuns": "29.3%",
+      "hazaras": "21.6%",
+      "uzbeks": "1.7%",
+      "turkmens": "0.9%",
+      "balochi": "0.9%",
+      "hindus": "0.9%",
+      "pashai": "0.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Bagrami",
+        "pashto_name": "بگرامی",
+        "population": 62709,
+        "area": 230,
+        "villages": 272,
+        "ethnicity": "Pashtuns (majority), Tajiks"
+      },
+      {
+        "name": "Chahar Asyab",
+        "pashto_name": "چهار آسیاب",
+        "population": 41452,
+        "area": 246,
+        "villages": 168,
+        "ethnicity": "Pashtuns, Tajiks, and few Hazaras"
+      },
+      {
+        "name": "Deh Sabz",
+        "pashto_name": "ده سبز",
+        "population": 61115,
+        "area": 525,
+        "villages": 117,
+        "ethnicity": "70% Pashtuns, 30% Tajiks"
+      },
+      {
+        "name": "Farza",
+        "pashto_name": "فرزه",
+        "population": 24313,
+        "area": 85,
+        "villages": 287,
+        "ethnicity": "Mixed Pashtuns and Tajiks"
+      },
+      {
+        "name": "Guldara",
+        "pashto_name": "گلدره",
+        "population": 25907,
+        "area": 84,
+        "villages": 310,
+        "ethnicity": "70% Tajiks, 30% Pashtuns"
+      },
+      {
+        "name": "Istalif",
+        "pashto_name": "استالف",
+        "population": 37998,
+        "area": 108,
+        "villages": 354,
+        "ethnicity": "Mixed Tajik, Pashtun, and Hazara"
+      },
+      {
+        "name": "Kabul (city)",
+        "pashto_name": "کابل",
+        "population": 4434550,
+        "area": 383,
+        "villages": 11575,
+        "ethnicity": "45% Tajiks (5% Qizilbash), 25% Pashtuns, 25% Hazaras, 2% Uzbeks, 1% Turkmen, 1% Balochi, 1% Hindu"
+      },
+      {
+        "name": "Kalakan",
+        "pashto_name": "کلکان",
+        "population": 34278,
+        "area": 73,
+        "villages": 470,
+        "ethnicity": "Predominantly Tajik and some Pashtuns"
+      },
+      {
+        "name": "Khaki Jabbar",
+        "pashto_name": "خاک جبار",
+        "population": 16209,
+        "area": 590,
+        "villages": 27,
+        "ethnicity": "95% Pashtuns, 5% Tajiks"
+      },
+      {
+        "name": "Mir Bacha Kot",
+        "pashto_name": "مير بچه کوت",
+        "population": 59122,
+        "area": 62,
+        "villages": 956,
+        "ethnicity": "Tajiks and some Pashtun families"
+      },
+      {
+        "name": "Mussahi",
+        "pashto_name": "موسهی",
+        "population": 26439,
+        "area": 119,
+        "villages": 222,
+        "ethnicity": "Pashtuns and a number of Tajik families"
+      },
+      {
+        "name": "Paghman",
+        "pashto_name": "پغمان",
+        "population": 138507,
+        "area": 385,
+        "villages": 360,
+        "ethnicity": "70% Pashtuns, 30% Tajiks"
+      },
+      {
+        "name": "Qarabagh",
+        "pashto_name": "قره باغ",
+        "population": 86358,
+        "area": 214,
+        "villages": 403,
+        "ethnicity": "60% Tajiks, 40% Pashtuns"
+      },
+      {
+        "name": "Shakardara",
+        "pashto_name": "شکر دره",
+        "population": 93001,
+        "area": 271,
+        "villages": 344,
+        "ethnicity": "Either majority Tajik or majority Pashtun"
+      },
+      {
+        "name": "Surobi",
+        "pashto_name": "سوروبی",
+        "population": 62709,
+        "area": 1314,
+        "villages": 48,
+        "ethnicity": "90% Pashtuns, 10% Pashais"
+      }
+    ],
+    "map_image": "assets/maps/kabul.png"
   }
 ]
