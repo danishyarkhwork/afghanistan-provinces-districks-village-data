@@ -3278,5 +3278,225 @@
       }
     ],
     "map_image": "assets/maps/kunduz.png"
+  },
+  {
+    "name": "Laghman",
+    "pashto_name": "لغمان",
+    "code": "LAG",
+    "population": 493488,
+    "area": 3978,
+    "districts": 5,
+    "capital": "Mihtarlam",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Mihtarlam"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Semi-arid, hot summers, mild winters.",
+    "languages": ["Pashto", "Pashai", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, rice, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 124,
+    "administrative_divisions": {
+      "districts_count": 5,
+      "main_districts": ["Mihtarlam", "Alingar", "Qarghayi"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "52.0%",
+      "pashai": "26.7%",
+      "tajiks": "21.3%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "52.0%",
+      "pashai": "26.7%",
+      "tajiks": "21.3%"
+    },
+    "districts_data": [
+      {
+        "name": "Alingar",
+        "pashto_name": "الینگار",
+        "population": 109343,
+        "area": 804,
+        "villages": 136,
+        "ethnicity": "70% Pashtun, 5% Tajik, 25% Pashai"
+      },
+      {
+        "name": "Alishing",
+        "pashto_name": "الیشنګ",
+        "population": 80645,
+        "area": 654,
+        "villages": 123,
+        "ethnicity": "60% Pashai, 25% Pashtun, 15% Tajik"
+      },
+      {
+        "name": "Dawlat Shah",
+        "pashto_name": "دولت شاه",
+        "population": 37599,
+        "area": 741,
+        "villages": 51,
+        "ethnicity": "70% Pashai, 29% Tajik, 1% Pashtun"
+      },
+      {
+        "name": "Mihtarlam",
+        "pashto_name": "مهترلام",
+        "population": 155097,
+        "area": 758,
+        "villages": 205,
+        "ethnicity": "60% Pashtun, 35% Tajik, 5% Pashai"
+      },
+      {
+        "name": "Qarghayi",
+        "pashto_name": "قرغه ای",
+        "population": 110804,
+        "area": 944,
+        "villages": 117,
+        "ethnicity": "60% Pashtun, 20% Tajik, 20% Pashai"
+      }
+    ],
+    "map_image": "assets/maps/laghman.png"
+  },
+  {
+    "name": "Logar",
+    "pashto_name": "لوګر",
+    "code": "LGR",
+    "population": 434374,
+    "area": 4568,
+    "districts": 7,
+    "capital": "Puli Alam",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Puli Alam"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Continental, cold winters, warm summers.",
+    "languages": ["Dari", "Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, rice, vegetables, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 95,
+    "administrative_divisions": {
+      "districts_count": 7,
+      "main_districts": ["Puli Alam", "Baraki Barak", "Mohammad Agha"]
+    },
+    "ethnic_groups": {
+      "tajiks": "64.0%",
+      "pashtuns": "36.0%",
+      "hazaras": "0.3%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "tajiks": "64.0%",
+      "pashtuns": "36.0%",
+      "hazaras": "0.3%"
+    },
+    "districts_data": [
+      {
+        "name": "Azra",
+        "pashto_name": "ازره",
+        "population": 22985,
+        "area": 777,
+        "villages": 30,
+        "ethnicity": "100% Pashtuns"
+      },
+      {
+        "name": "Baraki Barak",
+        "pashto_name": "برکی برک",
+        "population": 99210,
+        "area": 239,
+        "villages": 416,
+        "ethnicity": "Predominantly Tajiks, few Pashtuns"
+      },
+      {
+        "name": "Charkh",
+        "pashto_name": "چرخ",
+        "population": 50220,
+        "area": 304,
+        "villages": 165,
+        "ethnicity": "Majority Tajiks, minority Pashtuns"
+      },
+      {
+        "name": "Kharwar",
+        "pashto_name": "خروار",
+        "population": 29628,
+        "area": 469,
+        "villages": 63,
+        "ethnicity": "Majority Pashtuns, minority Tajiks"
+      },
+      {
+        "name": "Khoshi",
+        "pashto_name": "خوشي",
+        "population": 27236,
+        "area": 398,
+        "villages": 69,
+        "ethnicity": "65% Tajiks, 34% Pashtuns, 1% Hazaras"
+      },
+      {
+        "name": "Mohammad Agha",
+        "pashto_name": "محمد آغا",
+        "population": 85295,
+        "area": 1076,
+        "villages": 79,
+        "ethnicity": "60% Pashtuns, 40% Tajiks"
+      },
+      {
+        "name": "Puli Alam",
+        "pashto_name": "پولِ علم",
+        "population": 119800,
+        "area": 1131,
+        "villages": 106,
+        "ethnicity": "Majority Tajiks, minority Pashtuns, few Hazaras"
+      }
+    ],
+    "map_image": "assets/maps/logar.png"
   }
 ]
