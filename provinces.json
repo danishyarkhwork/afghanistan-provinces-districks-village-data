@@ -2678,5 +2678,123 @@
       }
     ],
     "map_image": "assets/maps/kandahar.png"
+  },
+  {
+    "name": "Kapisa",
+    "pashto_name": "کاپیسا",
+    "code": "KPS",
+    "population": 488298,
+    "area": 1908,
+    "districts": 7,
+    "capital": "Mahmud Raqi",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Mahmud Raqi"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Continental, cold winters, warm summers.",
+    "languages": ["Dari", "Pashto", "Pashayi"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity in some areas",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 256,
+    "administrative_divisions": {
+      "districts_count": 7,
+      "main_districts": ["Mahmud Raqi", "Nijrab", "Tagab"]
+    },
+    "ethnic_groups": {
+      "tajiks": "57.4%",
+      "pashtuns": "28.5%",
+      "pashayi": "14.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "tajiks": "57.4%",
+      "pashtuns": "28.5%",
+      "pashayi": "14.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Alasay",
+        "pashto_name": "الاسای",
+        "population": 42780,
+        "area": 327,
+        "villages": 131,
+        "ethnicity": "60% Pashayi in the upper half of the district, 40% Pashtuns in its lower half"
+      },
+      {
+        "name": "Hesa Awal Kohistan",
+        "pashto_name": "حصه اول کوهستان",
+        "population": 76925,
+        "area": 88,
+        "villages": 872,
+        "ethnicity": "Tajiks. Created in 2005 within Kohistan District"
+      },
+      {
+        "name": "Hesa Duwum Kohistan",
+        "pashto_name": "حصه دوم کوهستان",
+        "population": 50885,
+        "area": 38,
+        "villages": 1346,
+        "ethnicity": "Tajiks. Created in 2005 within Kohistan District"
+      },
+      {
+        "name": "Koh Band",
+        "pashto_name": "کوه بند",
+        "population": 26572,
+        "area": 163,
+        "villages": 163,
+        "ethnicity": "Pashayi"
+      },
+      {
+        "name": "Mahmud Raqi",
+        "pashto_name": "محمود راقی",
+        "population": 72716,
+        "area": 173,
+        "villages": 422,
+        "ethnicity": "70% Tajiks, 30% Pashtuns"
+      },
+      {
+        "name": "Nijrab",
+        "pashto_name": "نجراب",
+        "population": 127013,
+        "area": 594,
+        "villages": 214,
+        "ethnicity": "80% Tajiks, 14% Pashtuns, 6% Pashayi"
+      },
+      {
+        "name": "Tagab",
+        "pashto_name": "تگاب",
+        "population": 91407,
+        "area": 497,
+        "villages": 184,
+        "ethnicity": "90% Pashtuns, 10% Pashayi"
+      }
+    ],
+    "map_image": "assets/maps/kapisa.png"
   }
 ]
