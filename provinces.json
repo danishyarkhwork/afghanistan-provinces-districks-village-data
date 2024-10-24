@@ -3972,5 +3972,185 @@
       }
     ],
     "map_image": "assets/maps/nuristan.png"
+  },
+  {
+    "name": "Paktia",
+    "pashto_name": "پکتیا",
+    "code": "PKT",
+    "population": 611952,
+    "area": 5583,
+    "districts": 14,
+    "capital": "Gardez",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Gardez"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 110,
+    "administrative_divisions": {
+      "districts_count": 14,
+      "main_districts": ["Gardez", "Zurmat", "Chamkani"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "93.3%",
+      "tajiks": "6.7%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "93.3%",
+      "tajiks": "6.7%"
+    },
+    "districts_data": [
+      {
+        "name": "Ahmad Aba",
+        "pashto_name": "احمد ابا",
+        "population": 31488,
+        "area": 364,
+        "villages": 86,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Ahmadkhel",
+        "pashto_name": "احمدخېل",
+        "population": 25775,
+        "area": 220,
+        "villages": 117,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Dand Aw Patan",
+        "pashto_name": "ډنډ او پټان",
+        "population": 30027,
+        "area": 219,
+        "villages": 137,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Gardez",
+        "pashto_name": "ګردېز",
+        "population": 95663,
+        "area": 679,
+        "villages": 141,
+        "ethnicity": "60% Pashtun, 40% Tajik"
+      },
+      {
+        "name": "Gerda Serai",
+        "pashto_name": "ګرډه سېرای",
+        "population": 12642,
+        "area": 293,
+        "villages": 43,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Janikhel District",
+        "pashto_name": "جانيخېل",
+        "population": 39459,
+        "area": 353,
+        "villages": 112,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Laja Mangal District",
+        "pashto_name": "لجه منګل",
+        "population": 21258,
+        "area": 193,
+        "villages": 110,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Mirzaka",
+        "pashto_name": "ميرزکه",
+        "population": 9698,
+        "area": 220,
+        "villages": 44,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Rohani Baba",
+        "pashto_name": "روحاني بابا",
+        "population": 23018,
+        "area": 653,
+        "villages": 35,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Said Karam",
+        "pashto_name": "سید کرم",
+        "population": 62975,
+        "area": 256,
+        "villages": 246,
+        "ethnicity": "95% Pashtuns, 5% Tajiks"
+      },
+      {
+        "name": "Shwak",
+        "pashto_name": "شوکه",
+        "population": 6245,
+        "area": 114,
+        "villages": 55,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Chamkani",
+        "pashto_name": "چمکني",
+        "population": 56465,
+        "area": 301,
+        "villages": 188,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Zadran",
+        "pashto_name": "زدران",
+        "population": 27480,
+        "area": 263,
+        "villages": 104,
+        "ethnicity": "Pashtuns"
+      },
+      {
+        "name": "Zazi (Jaji)",
+        "pashto_name": "زازی",
+        "population": 71212,
+        "area": 591,
+        "villages": 120,
+        "ethnicity": "100% Pashtuns"
+      },
+      {
+        "name": "Zurmat",
+        "pashto_name": "زورمټ",
+        "population": 98547,
+        "area": 747,
+        "villages": 132,
+        "ethnicity": "97% Pashtuns, 3% Tajiks"
+      }
+    ],
+    "map_image": "assets/maps/paktia.png"
   }
 ]
