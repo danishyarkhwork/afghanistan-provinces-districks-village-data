@@ -1740,5 +1740,187 @@
       }
     ],
     "map_image": "assets/maps/ghor.png"
+  },
+  {
+    "name": "Helmand",
+    "pashto_name": "هلمند",
+    "code": "HLM",
+    "population": 1446230,
+    "area": 58305,
+    "districts": 14,
+    "capital": "Lashkargah",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Lashkargah", "Grishk"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Arid, hot summers, mild winters.",
+    "languages": ["Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Poppy, wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": ["Bost Airport"]
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "High risk, insurgent activity common",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 24.8,
+    "administrative_divisions": {
+      "districts_count": 14,
+      "main_districts": ["Lashkargah", "Grishk", "Nad Ali"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "88.1%",
+      "balochi": "5.4%",
+      "hazaras": "3.9%",
+      "hindus": "0.9%",
+      "uzbeks": "0.9%",
+      "farsiwan_tajiks": "0.8%",
+      "sikhs": "<0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "88.1%",
+      "balochi": "5.4%",
+      "hazaras": "3.9%",
+      "hindus": "0.9%",
+      "uzbeks": "0.9%",
+      "farsiwan_tajiks": "0.8%",
+      "sikhs": "<0.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Baghran",
+        "pashto_name": "باغران",
+        "population": 129745,
+        "area": 3858,
+        "villages": 34,
+        "ethnicity": "90% Pashtun, 10% Hazara"
+      },
+      {
+        "name": "Dishu",
+        "pashto_name": "دیشو",
+        "population": 30296,
+        "area": 11680,
+        "villages": 2,
+        "ethnicity": "80% Pashtun, 20% Baloch"
+      },
+      {
+        "name": "Garmsir",
+        "pashto_name": "ګرمسېر",
+        "population": 119237,
+        "area": 14260,
+        "villages": 112,
+        "ethnicity": "99% Pashtun, 1% Baloch"
+      },
+      {
+        "name": "Kajaki",
+        "pashto_name": "کجکی",
+        "population": 116827,
+        "area": 2184,
+        "villages": 53,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Khanashin (Reg)",
+        "pashto_name": "خانشین (رګ)",
+        "population": 26348,
+        "area": 7064,
+        "villages": 4,
+        "ethnicity": "52% Pashtun, 48% Baloch"
+      },
+      {
+        "name": "Lashkargah",
+        "pashto_name": "لشکرگاه",
+        "population": 194473,
+        "area": 1891,
+        "villages": 103,
+        "ethnicity": "60% Pashtun, 20% Baloch, 20% Hindu, Hazara, and Uzbek"
+      },
+      {
+        "name": "Marjah",
+        "pashto_name": "مارجه",
+        "population": 30425,
+        "area": 2904,
+        "villages": 10,
+        "ethnicity": "Predominantly Pashtun"
+      },
+      {
+        "name": "Musa Qala",
+        "pashto_name": "موسی قلعہ",
+        "population": 121749,
+        "area": 1209,
+        "villages": 101,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Nad Ali",
+        "pashto_name": "نادعلي",
+        "population": 186929,
+        "area": 3046,
+        "villages": 61,
+        "ethnicity": "80% Pashtun, 10% Hazara, 5% Tajik, 5% Baloch"
+      },
+      {
+        "name": "Grishk (Nahri Saraj)",
+        "pashto_name": "ګرشک (نهر سراج)",
+        "population": 174820,
+        "area": 1554,
+        "villages": 113,
+        "ethnicity": "90% Pashtun, 5% Hazara, 5% Baloch"
+      },
+      {
+        "name": "Nawa-I-Barakzayi",
+        "pashto_name": "ناوه بارکزۍ",
+        "population": 111259,
+        "area": 617,
+        "villages": 180,
+        "ethnicity": "99% Pashtun, 1% Farsiwan, Hindu, and Sikh"
+      },
+      {
+        "name": "Nawzad",
+        "pashto_name": "نوزاد",
+        "population": 97824,
+        "area": 5318,
+        "villages": 18,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Sangin",
+        "pashto_name": "سنگین",
+        "population": 77353,
+        "area": 516,
+        "villages": 150,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Washir",
+        "pashto_name": "واشیر",
+        "population": 28945,
+        "area": 4647,
+        "villages": 6,
+        "ethnicity": "100% Pashtun"
+      }
+    ],
+    "map_image": "assets/maps/helmand.png"
   }
 ]
