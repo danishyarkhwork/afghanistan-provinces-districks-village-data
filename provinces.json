@@ -1922,5 +1922,203 @@
       }
     ],
     "map_image": "assets/maps/helmand.png"
+  },
+  {
+    "name": "Herat",
+    "pashto_name": "هرات",
+    "code": "HRT",
+    "population": 2140662,
+    "area": 55869,
+    "districts": 16,
+    "capital": "Herat",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Herat"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Semi-arid, hot summers, cold winters.",
+    "languages": ["Dari", "Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Fruits, saffron, wheat, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": ["Herat International Airport"]
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity in some areas",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 38.3,
+    "administrative_divisions": {
+      "districts_count": 16,
+      "main_districts": ["Herat", "Shindand", "Injil"]
+    },
+    "ethnic_groups": {
+      "pashtuns": "39.8%",
+      "tajiks": "37.1%",
+      "aimaqs": "21.6%",
+      "uzbeks": "1.3%",
+      "turkmens": "0.9%",
+      "hazaras": "0.2%",
+      "balochi": "0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "ethnic_distribution": {
+      "pashtuns": "39.8%",
+      "tajiks": "37.1%",
+      "aimaqs": "21.6%",
+      "uzbeks": "1.3%",
+      "turkmens": "0.9%",
+      "hazaras": "0.2%",
+      "balochi": "0.1%"
+    },
+    "districts_data": [
+      {
+        "name": "Adraskan",
+        "pashto_name": "ادرسکن",
+        "population": 60716,
+        "area": 8113,
+        "villages": 7,
+        "ethnicity": "Predominantly Pashtuns, few Farsiwan (Tajiks)"
+      },
+      {
+        "name": "Chishti Sharif",
+        "pashto_name": "چشتی شریف",
+        "population": 26838,
+        "area": 1626,
+        "villages": 17,
+        "ethnicity": "Majority Farsiwan (Aimaqs), minority Pashtuns"
+      },
+      {
+        "name": "Farsi",
+        "pashto_name": "فارسی",
+        "population": 34676,
+        "area": 2194,
+        "villages": 16,
+        "ethnicity": "Predominantly Farsiwan (Aimaqs, Tajiks), few Pashtuns and Uzbeks"
+      },
+      {
+        "name": "Ghoryan",
+        "pashto_name": "غوریان",
+        "population": 101878,
+        "area": 7934,
+        "villages": 13,
+        "ethnicity": "Majority Pashtuns, minority Farsiwan (Tajiks, Aimaqs)"
+      },
+      {
+        "name": "Gulran",
+        "pashto_name": "گلران",
+        "population": 106420,
+        "area": 5544,
+        "villages": 19,
+        "ethnicity": "Majority Pashtuns, minority Farsiwan (Aimaqs), and Turkmen"
+      },
+      {
+        "name": "Guzara",
+        "pashto_name": "گذره",
+        "population": 165940,
+        "area": 2455,
+        "villages": 68,
+        "ethnicity": "Mixed Farsiwan (Tajiks) and Pashtuns"
+      },
+      {
+        "name": "Herat",
+        "pashto_name": "هرات",
+        "population": 574276,
+        "area": 234,
+        "villages": 2452,
+        "ethnicity": "Majority Farsiwan (Tajiks), minority Pashtuns, few Hazaras, Uzbeks, Turkmens, and others"
+      },
+      {
+        "name": "Injil/Enjil",
+        "pashto_name": "انجیل",
+        "population": 276479,
+        "area": 896,
+        "villages": 308,
+        "ethnicity": "Majority Farsiwan (Aimaqs, Tajiks), minority Pashtuns"
+      },
+      {
+        "name": "Karukh",
+        "pashto_name": "کرخ",
+        "population": 72530,
+        "area": 2123,
+        "villages": 34,
+        "ethnicity": "Majority Farsiwan (Aimaqs), minority Pashtuns"
+      },
+      {
+        "name": "Kohsan",
+        "pashto_name": "کوهسان",
+        "population": 61513,
+        "area": 2688,
+        "villages": 23,
+        "ethnicity": "60% Pashtuns, 35% Farsiwan (Tajiks, Aimaqs), 5% Baloch"
+      },
+      {
+        "name": "Kushk",
+        "pashto_name": "کشک",
+        "population": 141585,
+        "area": 2959,
+        "villages": 48,
+        "ethnicity": "Majority Farsiwan (Aimaqs), minority Pashtuns, few Turkmens"
+      },
+      {
+        "name": "Kushki Kuhna",
+        "pashto_name": "کشک کهنه",
+        "population": 51682,
+        "area": 1817,
+        "villages": 28,
+        "ethnicity": "55% Tajik, 40% Pashtun, 5% Hazara"
+      },
+      {
+        "name": "Obe",
+        "pashto_name": "اوبه",
+        "population": 85836,
+        "area": 2427,
+        "villages": 35,
+        "ethnicity": "Majority Farsiwan (Aimaqs, Tajiks), minority Uzbeks, few Pashtuns"
+      },
+      {
+        "name": "Pashtun Zarghun",
+        "pashto_name": "پشتون زرغون",
+        "population": 113329,
+        "area": 2196,
+        "villages": 52,
+        "ethnicity": "Majority Farsiwan (Tajiks, Aimaqs), minority Pashtuns"
+      },
+      {
+        "name": "Shindand",
+        "pashto_name": "شیندند",
+        "population": 202395,
+        "area": 15760,
+        "villages": 13,
+        "ethnicity": "Majority Pashtuns, minority Farsiwan (Tajiks, Aimaqs)"
+      },
+      {
+        "name": "Zinda Jan",
+        "pashto_name": "زنده جان",
+        "population": 64569,
+        "area": 2542,
+        "villages": 25,
+        "ethnicity": "Predominantly Farsiwan (Tajiks, Aimaqs), few Pashtuns"
+      }
+    ],
+    "map_image": "assets/maps/herat.png"
   }
 ]
