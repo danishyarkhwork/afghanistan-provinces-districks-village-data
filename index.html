@@ -229,6 +229,9 @@
                 <h1 id="province-name" class="text-5xl font-bold mb-6">
                   Province Name
                 </h1>
+                <h1 id="province-pashto-name" class="text-5xl font-bold mb-6">
+                  Province Name
+                </h1>
               </div>
 
               <!-- Province Map -->
@@ -412,6 +415,8 @@
         function displayProvinceData(province) {
           $("#province-info").fadeIn();
           document.getElementById("province-name").textContent = province.name;
+          document.getElementById("province-pashto-name").textContent =
+            province.pashto_name;
           document.getElementById("province-image").src = province.map_image;
 
           document.getElementById("province-population").textContent =

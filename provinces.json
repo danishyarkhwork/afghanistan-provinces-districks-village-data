@@ -409,7 +409,7 @@
         "ethnicity": "82% Tajiks, 10% Uzbeks, 5% Pashtuns, 3% Baloch, 1% Turkmen"
       }
     ],
-    "map_image": "assets/maps/Badghis.png"
+    "map_image": "assets/maps/badghis.png"
   },
   {
     "name": "Baghlan",
@@ -596,7 +596,7 @@
         "ethnicity": "Hazara 70%, Tajik 30%"
       }
     ],
-    "map_image": "assets/maps/Baghlan.png"
+    "map_image": "assets/maps/baghlan.png"
   },
   {
     "name": "Balkh",
