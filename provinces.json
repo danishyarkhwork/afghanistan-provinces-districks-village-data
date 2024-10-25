@@ -4632,5 +4632,129 @@
       }
     ],
     "map_image": "assets/maps/parwan.png"
+  },
+  {
+    "name": "Samangan",
+    "pashto_name": "سمنګان",
+    "code": "SAM",
+    "population": 430489,
+    "area": 13438,
+    "districts": 8,
+    "capital": "Aybak",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Aybak"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Dari", "Pashto", "Uzbek"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity low",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 32,
+    "administrative_divisions": {
+      "districts_count": 8,
+      "main_districts": [
+        "Aybak",
+        "Darah Sof Balla",
+        "Darah Sof Payan",
+        "Feroz Nakhchir",
+        "Hazrat Sultan",
+        "Khuram Wa Sarbagh",
+        "Ruyi Du Ab"
+      ]
+    },
+    "ethnic_groups": {
+      "hazaras": "32.1% (26.1% Shiites, 6.0% Sunni Tatars)",
+      "uzbeks": "28.3%",
+      "farsiwans": "26.8% (25.7% Tajiks, 1.1% Persianized Arabs)",
+      "pashtuns": "11.4%",
+      "others": "1.4%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni",
+      "islam_shiite": "26.1% Shiite Hazaras"
+    },
+    "water_sources": [],
+    "districts_data": [
+      {
+        "name": "Aybak",
+        "pashto_name": "ایبک",
+        "population": 118537,
+        "area": 2145,
+        "villages": 96,
+        "ethnicity": "55% Uzbek, 35% Tajik, 5% Pashtun, 5% other"
+      },
+      {
+        "name": "Darah Sof Balla",
+        "pashto_name": "دره صوف بالا",
+        "population": 73072,
+        "area": 2283,
+        "villages": 146,
+        "ethnicity": "100% Hazara"
+      },
+      {
+        "name": "Darah Sof Payan",
+        "pashto_name": "دره صوف پایان",
+        "population": 80778,
+        "area": 1699,
+        "villages": 209,
+        "ethnicity": "Majority Uzbek and minority Pashtun"
+      },
+      {
+        "name": "Feroz Nakhchir",
+        "pashto_name": "فیروز نخچیر",
+        "population": 14747,
+        "area": 930,
+        "villages": 22,
+        "ethnicity": "Mixed Pashtun and Tajik"
+      },
+      {
+        "name": "Hazrat Sultan",
+        "pashto_name": "حضرت سلطان",
+        "population": 46766,
+        "area": 2102,
+        "villages": 66,
+        "ethnicity": "Majority Hazara, minority Tajik, Pashtun, Arab"
+      },
+      {
+        "name": "Khuram Wa Sarbagh",
+        "pashto_name": "خرم و سرباغ",
+        "population": 45039,
+        "area": 1815,
+        "villages": 52,
+        "ethnicity": "Majority Tajik, minority Pashtun and Hazara"
+      },
+      {
+        "name": "Ruyi Du Ab",
+        "pashto_name": "روی دو آب",
+        "population": 51550,
+        "area": 2477,
+        "villages": 83,
+        "ethnicity": "Mixed Tajik and Hazara (Tatar tribe)"
+      }
+    ],
+    "map_image": "assets/maps/samangan.png"
   }
 ]
