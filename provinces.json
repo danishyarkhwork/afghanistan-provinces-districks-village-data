@@ -4878,5 +4878,221 @@
       }
     ],
     "map_image": "assets/maps/sar_e_pol.png"
+  },
+  {
+    "name": "Takhar",
+    "pashto_name": "تخار",
+    "code": "TAK",
+    "population": 1093092,
+    "area": 12458,
+    "districts": 16,
+    "capital": "Taluqan",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Taluqan"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Dari", "Pashto", "Uzbek"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity low",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 88,
+    "administrative_divisions": {
+      "districts_count": 16,
+      "main_districts": [
+        "Taluqan",
+        "Baharak",
+        "Bangi",
+        "Chah Ab",
+        "Chal",
+        "Darqad",
+        "Dashti Qala",
+        "Farkhar",
+        "Hazar Sumuch",
+        "Ishkamish",
+        "Kalafgan",
+        "Khwaja Bahauddin",
+        "Khwaja Ghar",
+        "Namak Ab",
+        "Rustaq",
+        "Warsaj",
+        "Yangi Qala"
+      ]
+    },
+    "ethnic_groups": {
+      "uzbeks": "46.0%",
+      "tajiks": "42.1%",
+      "pashtuns": "8.0%",
+      "hazaras": "2.1%",
+      "gujar": "0.6%",
+      "balochi": "<0.1%",
+      "turkmens": "<0.1%",
+      "others": "1.2%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "districts_data": [
+      {
+        "name": "Baharak",
+        "pashto_name": "بهارک",
+        "population": 34942,
+        "area": 379,
+        "villages": 74,
+        "ethnicity": "83% Uzbek, 10% Pashtun, 5% Tajik, 2% Hazara"
+      },
+      {
+        "name": "Bangi",
+        "pashto_name": "بنګي",
+        "population": 39725,
+        "area": 434,
+        "villages": 59,
+        "ethnicity": "80% Uzbek, 10% Tajik, 6% Hazara, 4% Pashtun"
+      },
+      {
+        "name": "Chah Ab",
+        "pashto_name": "چاه آب",
+        "population": 90011,
+        "area": 833,
+        "villages": 63,
+        "ethnicity": "97% Tajik, 3% Uzbek"
+      },
+      {
+        "name": "Chal",
+        "pashto_name": "چال",
+        "population": 31885,
+        "area": 404,
+        "villages": 58,
+        "ethnicity": "55% Uzbek, 38% Tajik, 6% Hazara, 1% Pashtun, 1% Gujar"
+      },
+      {
+        "name": "Darqad",
+        "pashto_name": "درقد",
+        "population": 30424,
+        "area": 310,
+        "villages": 34,
+        "ethnicity": "Predominantly Uzbek, few Tajik"
+      },
+      {
+        "name": "Dashti Qala",
+        "pashto_name": "دشت کلا",
+        "population": 36137,
+        "area": 314,
+        "villages": 49,
+        "ethnicity": "70% Uzbek, 25% Tajik, 5% Pashtun"
+      },
+      {
+        "name": "Farkhar",
+        "pashto_name": "فرخار",
+        "population": 53051,
+        "area": 1306,
+        "villages": 75,
+        "ethnicity": "94% Tajik, 5% Hazara, 1% other"
+      },
+      {
+        "name": "Hazar Sumuch",
+        "pashto_name": "هزار سموچ",
+        "population": 15545,
+        "area": 265,
+        "villages": 28,
+        "ethnicity": "Predominantly Pashtun, few Turkmen, Tajik, Uzbek"
+      },
+      {
+        "name": "Ishkamish",
+        "pashto_name": "اشکمش",
+        "population": 66695,
+        "area": 948,
+        "villages": 103,
+        "ethnicity": "40% Tajik, 30% Uzbek, 20% Pashtun, 10% Gujar"
+      },
+      {
+        "name": "Kalafgan",
+        "pashto_name": "کلفگان",
+        "population": 39858,
+        "area": 526,
+        "villages": 42,
+        "ethnicity": "95% Uzbek, 2% Hazara, 2% Tajik, 1% Pashtun"
+      },
+      {
+        "name": "Khwaja Bahauddin",
+        "pashto_name": "خواجه بهاوالدین",
+        "population": 26306,
+        "area": 182,
+        "villages": 25,
+        "ethnicity": "Predominantly Uzbek"
+      },
+      {
+        "name": "Khwaja Ghar",
+        "pashto_name": "خواجه غار",
+        "population": 76132,
+        "area": 404,
+        "villages": 62,
+        "ethnicity": "70% Uzbek, 20% Pashtun, 10% Tajik, <1% Hazara"
+      },
+      {
+        "name": "Namak Ab",
+        "pashto_name": "نمک آب",
+        "population": 13817,
+        "area": 431,
+        "villages": 28,
+        "ethnicity": "100% Tajik"
+      },
+      {
+        "name": "Rustaq",
+        "pashto_name": "رستاق",
+        "population": 186144,
+        "area": 1824,
+        "villages": 179,
+        "ethnicity": "50% Uzbek, 50% Tajik, <1% Pashtun, <1% Baloch"
+      },
+      {
+        "name": "Taluqan",
+        "pashto_name": "تالقان",
+        "population": 258724,
+        "area": 833,
+        "villages": 311,
+        "ethnicity": "40% Uzbek, 40% Tajik, 10% Pashtun, 5% Hazara, 5% others"
+      },
+      {
+        "name": "Warsaj",
+        "pashto_name": "ورصاج",
+        "population": 42914,
+        "area": 2668,
+        "villages": 94,
+        "ethnicity": "100% Tajik"
+      },
+      {
+        "name": "Yangi Qala",
+        "pashto_name": "ینگی کلا",
+        "population": 50782,
+        "area": 360,
+        "villages": 64,
+        "ethnicity": "65% Uzbek, 18% Pashtun, 15% Tajik, 2% Hazara"
+      }
+    ],
+    "map_image": "assets/maps/takhar.png"
   }
 ]
