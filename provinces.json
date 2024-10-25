@@ -4877,7 +4877,7 @@
         "ethnicity": "Mixed Pashtuns and Hazaras"
       }
     ],
-    "map_image": "assets/maps/sar_e_pol.png"
+    "map_image": "assets/maps/sare_pol.png"
   },
   {
     "name": "Takhar",
@@ -5204,7 +5204,7 @@
         "ethnicity": "Predominantly Pashtun, few Hazara"
       }
     ],
-    "map_image": "assets/maps/uruzgan.png"
+    "map_image": "assets/maps/daykundi.png"
   },
   {
     "name": "Wardak",
