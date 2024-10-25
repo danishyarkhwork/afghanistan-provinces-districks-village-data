@@ -5094,5 +5094,116 @@
       }
     ],
     "map_image": "assets/maps/takhar.png"
+  },
+  {
+    "name": "Uruzgan",
+    "pashto_name": "اروزګان",
+    "code": "URZ",
+    "population": 436079,
+    "area": 11474,
+    "districts": 6,
+    "capital": "Tarinkot",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Tarinkot"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, warm summers.",
+    "languages": ["Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity low",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 38,
+    "administrative_divisions": {
+      "districts_count": 6,
+      "main_districts": [
+        "Tarinkot",
+        "Shahidi Hassas",
+        "Chora",
+        "Deh Rawood",
+        "Gizab",
+        "Khas Uruzgan"
+      ]
+    },
+    "ethnic_groups": {
+      "pashtuns": "50.5%",
+      "hazaras": "49.6%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "districts_data": [
+      {
+        "name": "Shahidi Hassas",
+        "pashto_name": "شهیدي حساس",
+        "population": 66695,
+        "area": 2261,
+        "villages": 30,
+        "ethnicity": "Predominantly Hazara, few Pashtun"
+      },
+      {
+        "name": "Chora",
+        "pashto_name": "چوره",
+        "population": 72276,
+        "area": 2189,
+        "villages": 33,
+        "ethnicity": "Mixed Pashtun and Hazara. Includes Chinarto District"
+      },
+      {
+        "name": "Deh Rawood",
+        "pashto_name": "دهراوود",
+        "population": 69213,
+        "area": 1360,
+        "villages": 51,
+        "ethnicity": "Majority Pashtun, minority Hazara"
+      },
+      {
+        "name": "Gizab",
+        "pashto_name": "گيزاب",
+        "population": 47632,
+        "area": 2520,
+        "villages": 126,
+        "ethnicity": "Predominantly Hazaras, few Pashtun"
+      },
+      {
+        "name": "Khas Uruzgan",
+        "pashto_name": "خاص ارزگان",
+        "population": 63904,
+        "area": 2821,
+        "villages": 23,
+        "ethnicity": "Majority Hazara, minority Pashtun"
+      },
+      {
+        "name": "Tarinkot",
+        "pashto_name": "ترینکوت",
+        "population": 116359,
+        "area": 1974,
+        "villages": 59,
+        "ethnicity": "Predominantly Pashtun, few Hazara"
+      }
+    ],
+    "map_image": "assets/maps/uruzgan.png"
   }
 ]
