@@ -5344,5 +5344,162 @@
       }
     ],
     "map_image": "assets/maps/wardak.png"
+  },
+  {
+    "name": "Zabul",
+    "pashto_name": "زابل",
+    "code": "ZAB",
+    "population": 384349,
+    "area": 17472,
+    "districts": 11,
+    "capital": "Qalat",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Qalat"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Arid, hot summers, cold winters.",
+    "languages": ["Pashto"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity low",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 22,
+    "administrative_divisions": {
+      "districts_count": 11,
+      "main_districts": [
+        "Qalat",
+        "Arghandab",
+        "Atghar",
+        "Daychopan",
+        "Kakar",
+        "Mezana",
+        "Naw Bahar",
+        "Shah Joy",
+        "Shamulzayi",
+        "Shinkay",
+        "Tarnak Aw Jaldak"
+      ]
+    },
+    "ethnic_groups": {
+      "pashtuns": "99.4%",
+      "tajiks": "0.6%",
+      "hazaras": "<0.1%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "districts_data": [
+      {
+        "name": "Arghandab",
+        "pashto_name": "ارغنداب",
+        "population": 36934,
+        "area": 1490,
+        "villages": 25,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Atghar",
+        "pashto_name": "اتغر",
+        "population": 14059,
+        "area": 458,
+        "villages": 31,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Daychopan",
+        "pashto_name": "دای چوپان",
+        "population": 44508,
+        "area": 1491,
+        "villages": 30,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Kakar",
+        "pashto_name": "کاکړ",
+        "population": 27234,
+        "area": 981,
+        "villages": 28,
+        "ethnicity": "99% Pashtun, 1% Hazara"
+      },
+      {
+        "name": "Mezana",
+        "pashto_name": "ميزانه",
+        "population": 21623,
+        "area": 1079,
+        "villages": 20,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Naw Bahar",
+        "pashto_name": "نوبهار",
+        "population": 24534,
+        "area": 1137,
+        "villages": 22,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Qalat",
+        "pashto_name": "قلات",
+        "population": 44928,
+        "area": 1914,
+        "villages": 23,
+        "ethnicity": "95% Pashtun, 5% Tajik"
+      },
+      {
+        "name": "Shah Joy",
+        "pashto_name": "شاه جوى",
+        "population": 79889,
+        "area": 1878,
+        "villages": 43,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Shamulzayi",
+        "pashto_name": "شملزو",
+        "population": 36515,
+        "area": 3295,
+        "villages": 11,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Shinkay",
+        "pashto_name": "شنکى",
+        "population": 31911,
+        "area": 1861,
+        "villages": 17,
+        "ethnicity": "100% Pashtun"
+      },
+      {
+        "name": "Tarnak Aw Jaldak",
+        "pashto_name": "ترنک او جلدک",
+        "population": 22214,
+        "area": 1434,
+        "villages": 15,
+        "ethnicity": "100% Pashtun"
+      }
+    ],
+    "map_image": "assets/maps/zabul.png"
   }
 ]
