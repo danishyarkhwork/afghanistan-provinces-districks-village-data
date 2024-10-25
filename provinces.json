@@ -4756,5 +4756,127 @@
       }
     ],
     "map_image": "assets/maps/samangan.png"
+  },
+  {
+    "name": "Sar-e Pol",
+    "pashto_name": "سرپل",
+    "code": "SAR",
+    "population": 621002,
+    "area": 16386,
+    "districts": 8,
+    "capital": "Sar-e-Pol",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Sar-e-Pol"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Dari", "Pashto", "Uzbek"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity low",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 38,
+    "administrative_divisions": {
+      "districts_count": 8,
+      "main_districts": [
+        "Sar-e-Pol",
+        "Balkhab",
+        "Gosfandi",
+        "Kohistanat",
+        "Sancharak",
+        "Sayyad",
+        "Sozma Qala"
+      ]
+    },
+    "ethnic_groups": {
+      "uzbeks": "43.3%",
+      "hazaras": "38.6%",
+      "pashtuns": "18.1%",
+      "kyrgyz": "0.2%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "districts_data": [
+      {
+        "name": "Balkhab",
+        "pashto_name": "بلخاب",
+        "population": 56864,
+        "area": 2958,
+        "villages": 19,
+        "ethnicity": "Predominantly Hazaras, few Pashtuns"
+      },
+      {
+        "name": "Gosfandi",
+        "pashto_name": "گوسفندی",
+        "population": 64038,
+        "area": 620,
+        "villages": 103,
+        "ethnicity": "Majority Hazaras, minority Uzbeks"
+      },
+      {
+        "name": "Kohistanat",
+        "pashto_name": "کوهستانات",
+        "population": 90477,
+        "area": 5771,
+        "villages": 16,
+        "ethnicity": "Mixed Uzbeks, Pashtuns, Hazaras"
+      },
+      {
+        "name": "Sancharak",
+        "pashto_name": "سنچارک",
+        "population": 115050,
+        "area": 1316,
+        "villages": 87,
+        "ethnicity": "Majority Hazaras, minority Uzbeks, few Kyrgyz"
+      },
+      {
+        "name": "Sar-e-Pol",
+        "pashto_name": "سرپل",
+        "population": 176994,
+        "area": 2442,
+        "villages": 72,
+        "ethnicity": "Majority Uzbeks, minority Pashtuns"
+      },
+      {
+        "name": "Sayyad",
+        "pashto_name": "سید",
+        "population": 61646,
+        "area": 1334,
+        "villages": 46,
+        "ethnicity": "Predominantly Uzbeks, few Pashtuns"
+      },
+      {
+        "name": "Sozma Qala",
+        "pashto_name": "سوزمه قلعه",
+        "population": 55933,
+        "area": 531,
+        "villages": 105,
+        "ethnicity": "Mixed Pashtuns and Hazaras"
+      }
+    ],
+    "map_image": "assets/maps/sar_e_pol.png"
   }
 ]
