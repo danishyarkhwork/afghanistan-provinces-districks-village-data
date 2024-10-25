@@ -5205,5 +5205,144 @@
       }
     ],
     "map_image": "assets/maps/uruzgan.png"
+  },
+  {
+    "name": "Wardak",
+    "pashto_name": "وردګ",
+    "code": "WAR",
+    "population": 660258,
+    "area": 10348,
+    "districts": 9,
+    "capital": "Maidan Shar",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "major_cities": ["Maidan Shar"],
+    "neighbors": [],
+    "elevation": {
+      "min": null,
+      "max": null
+    },
+    "climate": "Mountainous, cold winters, mild summers.",
+    "languages": ["Pashto", "Dari"],
+    "time_zone": "UTC+4:30",
+    "natural_resources": [],
+    "economy": {
+      "agriculture": "Wheat, fruits, livestock",
+      "industries": []
+    },
+    "transportation": {
+      "major_roads": [],
+      "airports": []
+    },
+    "cultural_sites": [],
+    "educational_institutions": [],
+    "health_facilities": [],
+    "security_status": "Moderate risk, insurgent activity low",
+    "local_government": {
+      "governor": "Name of Governor",
+      "councils": ["Provincial Council", "District Councils"]
+    },
+    "annual_events": [],
+    "population_density": 64,
+    "administrative_divisions": {
+      "districts_count": 9,
+      "main_districts": [
+        "Maidan Shar",
+        "Chaki Wardak",
+        "Day Mirdad",
+        "Hisa-I-Awali Bihsud",
+        "Jaghatu",
+        "Jalrez",
+        "Markazi Bihsud",
+        "Nirkh",
+        "Saydabad"
+      ]
+    },
+    "ethnic_groups": {
+      "pashtuns": "63.9%",
+      "hazaras": "33.5%",
+      "tajiks": "2.5%"
+    },
+    "religious_groups": {
+      "islam_sunni": "Majority Sunni"
+    },
+    "water_sources": [],
+    "districts_data": [
+      {
+        "name": "Chaki Wardak",
+        "pashto_name": "چکي وردګ",
+        "population": 95392,
+        "area": 1153,
+        "villages": 83,
+        "ethnicity": "Predominantly Pashtuns"
+      },
+      {
+        "name": "Day Mirdad",
+        "pashto_name": "دای میراد",
+        "population": 35075,
+        "area": 976,
+        "villages": 36,
+        "ethnicity": "63% Pashtuns, 37% Hazaras"
+      },
+      {
+        "name": "Hisa-I-Awali Bihsud",
+        "pashto_name": "حسه اولي بهسود",
+        "population": 41850,
+        "area": 1406,
+        "villages": 30,
+        "ethnicity": "Majority Hazaras, minority Pashtuns"
+      },
+      {
+        "name": "Jaghatu",
+        "pashto_name": "جغتو",
+        "population": 51682,
+        "area": 595,
+        "villages": 87,
+        "ethnicity": "100% Pashtuns"
+      },
+      {
+        "name": "Jalrez",
+        "pashto_name": "جلریز",
+        "population": 59920,
+        "area": 1182,
+        "villages": 51,
+        "ethnicity": "Majority Hazaras, minority Pashtuns, few Tajiks"
+      },
+      {
+        "name": "Markazi Bihsud",
+        "pashto_name": "مرکزي بهسود",
+        "population": 134852,
+        "area": 3616,
+        "villages": 37,
+        "ethnicity": "Predominantly Hazaras"
+      },
+      {
+        "name": "Maidan Shar",
+        "pashto_name": "میدان شهر",
+        "population": 45787,
+        "area": 211,
+        "villages": 217,
+        "ethnicity": "85% Pashtuns, 14% Tajiks, 1% Hazaras"
+      },
+      {
+        "name": "Nirkh",
+        "pashto_name": "نرخ",
+        "population": 64436,
+        "area": 530,
+        "villages": 122,
+        "ethnicity": "80% Pashtuns, 15% Tajiks, 5% Hazaras"
+      },
+      {
+        "name": "Saydabad",
+        "pashto_name": "سیدآباد",
+        "population": 131264,
+        "area": 1130,
+        "villages": 116,
+        "ethnicity": "Predominantly Pashtuns"
+      }
+    ],
+    "map_image": "assets/maps/wardak.png"
   }
 ]
