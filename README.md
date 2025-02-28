@@ -1,6 +1,9 @@
 Afghanistan Provinces, Districts, and Villages Data
 This repository contains structured data for all provinces, districts, and villages in Afghanistan in JSON format. The data includes population statistics, geographic information, ethnic distributions, and village details. Additionally, each province is accompanied by a map image stored in the assets/maps folder.
 
+Link: https://khaliddanishyar.com/afg-data/
+
+<img src="https://khaliddanishyar.com/wp-content/uploads/2025/02/Afghanistan-data.png" />
 Purpose
 The purpose of this repository is to provide easy access to detailed geographic and demographic data about Afghanistan for developers, researchers, and organizations. This data can be used to create apps, WordPress plugins, or other services that require structured information about Afghanistan's provinces, districts, and villages.
 
