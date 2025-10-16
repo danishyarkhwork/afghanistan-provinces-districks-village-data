@@ -61,6 +61,7 @@
   transition: background-color 0.2s ease, transform 0.2s ease;
   border-radius: 8px;
   margin-bottom: 5px;
+  color: #1f2937; /* gray-800 */
 }
 
 .province-list-item:hover {
@@ -81,6 +82,10 @@ body.dark {
 
 .dark .dark-bg {
   background-color: #111827;
+}
+
+.dark .province-list-item {
+  color: #e5e7eb; /* gray-200 */
 }
 
 /* Fix layout of 3 cards per row */
@@ -146,6 +151,19 @@ nav ul li a:hover {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
+  /* Improve tap targets and spacing */
+  input,
+  button,
+  a {
+    min-height: 44px;
+  }
+
+  header nav .container,
+  header nav .max-w-screen-xl {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
   .cards-container {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -176,10 +194,15 @@ nav ul li a:hover {
   .province-list {
     position: relative;
     background: #ffffff;
-    max-height: 200px;
+    max-height: 320px;
     overflow-y: auto;
     z-index: 9;
     border-radius: 0.5rem;
+  }
+
+  /* Off-canvas behavior */
+  #sidebar {
+    transform: translateX(-100%);
   }
 }
 
@@ -205,4 +228,26 @@ footer {
   color: white;
   padding: 1rem 0;
   text-align: center;
+}
+
+/* Accessibility focus styles */
+:focus-visible {
+  outline: 3px solid #14b8a6; /* teal-500 */
+  outline-offset: 2px;
+}
+
+/* Utility: smooth fade-in */
+.fade-in {
+  animation: fadeIn 400ms ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

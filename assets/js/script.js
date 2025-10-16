@@ -36,6 +36,25 @@ $(document).ready(function () {
       document.exitFullscreen();
     }
   });
+
+  // Mobile nav toggle for the hamburger button
+  $("[data-collapse-toggle='navbar-sticky']").on("click", function () {
+    const $menu = $("#navbar-sticky");
+    const isHidden = $menu.hasClass("hidden");
+    $menu.toggleClass("hidden", !isHidden);
+    $(this).attr("aria-expanded", isHidden ? "true" : "false");
+  });
+
+  // Off-canvas sidebar toggle
+  $("#sidebarToggle").on("click", function () {
+    const sidebar = document.getElementById("sidebar");
+    const isOpen = sidebar.classList.contains("translate-x-0");
+    // Ensure starting state for mobile
+    sidebar.classList.add("md:translate-x-0");
+    sidebar.classList.toggle("-translate-x-full", isOpen);
+    sidebar.classList.toggle("translate-x-0", !isOpen);
+    $(this).attr("aria-expanded", (!isOpen).toString());
+  });
 });
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -56,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
       provinces.forEach((province) => {
         const listItem = document.createElement("li");
         listItem.className =
-          "province-list-item hover:bg-teal-100 transition p-2 rounded-lg";
+          "province-list-item hover:bg-teal-100 transition p-2 rounded-lg text-gray-800 dark:text-gray-200";
         listItem.textContent = province.name;
         listItem.addEventListener("click", () => {
           displayProvinceData(province);
